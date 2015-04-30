@@ -1,0 +1,67 @@
+Following planes are in park (Belavia):
+AN12 'Lastochka': v=1962,58, c=55420,00, r=11000,00, s=750,00
+AN12 'Ptichka': v=1962,58, c=55420,00, r=11000,00, s=750,00
+SuperGuppy 'Ribka': v=2000,00, c=42420,00, r=14500,00, s=1000,00
+AN225 'Mriya': v=64000,00, c=1300,00, r=15400,00, s=900,00
+
+Planes sorted by range:
+AN12 'Lastochka': v=1962,58, c=55420,00, r=11000,00, s=750,00
+AN12 'Ptichka': v=1962,58, c=55420,00, r=11000,00, s=750,00
+SuperGuppy 'Ribka': v=2000,00, c=42420,00, r=14500,00, s=1000,00
+AN225 'Mriya': v=64000,00, c=1300,00, r=15400,00, s=900,00
+
+Planes sorted by speed:
+AN12 'Lastochka': v=1962,58, c=55420,00, r=11000,00, s=750,00
+AN12 'Ptichka': v=1962,58, c=55420,00, r=11000,00, s=750,00
+AN225 'Mriya': v=64000,00, c=1300,00, r=15400,00, s=900,00
+SuperGuppy 'Ribka': v=2000,00, c=42420,00, r=14500,00, s=1000,00
+
+Common capacity of all planes of aviacompany: 69925.16
+
+Looking for a specific plane...
+Plane found:... AN12 'Lastochka': v=1962,58, c=55420,00, r=11000,00, s=750,00
+Plane found:... AN12 'Ptichka': v=1962,58, c=55420,00, r=11000,00, s=750,00
+Plane found:... AN225 'Mriya': v=64000,00, c=1300,00, r=15400,00, s=900,00
+Plane found:... SuperGuppy 'Ribka': v=2000,00, c=42420,00, r=14500,00, s=1000,00
+
+Looking for a specific plane...
+Requested plane was not found
+
+Driver loaded successfully -> OK
+Failed to open connection. url jdbc:mysql://127.0.0.1:3306/test
+SQLException: 	Communications link failure
+
+Last packet sent to the server was 0 ms ago.
+Requested database not found null
+
+Start parsing xml file with airplanes
+
+Parsing planes in company :Belavia
+
+Current Element :plane
+Airplane id:          1
+Airplane name:        Boeing 737
+Airplane capacity:    200
+Airplane range:       5000
+Airplane volume:      150
+Airplane speed:       400
+
+Current Element :plane
+Airplane id:          2
+Airplane name:        Cessna
+Airplane capacity:    100
+Airplane range:       7540
+Airplane volume:      400
+Airplane speed:       750
+
+Current Element :plane
+Airplane id:          3
+Airplane name:        Airbus
+Airplane capacity:    4000
+Airplane range:       100000
+Airplane volume:      700
+Airplane speed:       1200
+
+
+Looking for a company Belavia in xml file
+Company Belavia was found

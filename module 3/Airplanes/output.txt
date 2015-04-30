@@ -1,0 +1,141 @@
+Following planes are in park (Belavia):
+AN12 'Lastochka': v=1962.58, c=55420.00, r=11000.00, s=750.00
+AN12 'Ptichka': v=1962.58, c=55420.00, r=11000.00, s=750.00
+SuperGuppy 'Ribka': v=2000.00, c=42420.00, r=14500.00, s=1000.00
+AN225 'Mriya': v=64000.00, c=1300.00, r=15400.00, s=900.00
+
+Planes sorted by range:
+AN12 'Lastochka': v=1962.58, c=55420.00, r=11000.00, s=750.00
+AN12 'Ptichka': v=1962.58, c=55420.00, r=11000.00, s=750.00
+SuperGuppy 'Ribka': v=2000.00, c=42420.00, r=14500.00, s=1000.00
+AN225 'Mriya': v=64000.00, c=1300.00, r=15400.00, s=900.00
+
+Planes sorted by speed:
+AN12 'Lastochka': v=1962.58, c=55420.00, r=11000.00, s=750.00
+AN12 'Ptichka': v=1962.58, c=55420.00, r=11000.00, s=750.00
+AN225 'Mriya': v=64000.00, c=1300.00, r=15400.00, s=900.00
+SuperGuppy 'Ribka': v=2000.00, c=42420.00, r=14500.00, s=1000.00
+
+Common capacity of all planes of aviacompany: 69925.16
+
+Looking for a specific plane...
+Plane found:... AN12 'Lastochka': v=1962.58, c=55420.00, r=11000.00, s=750.00
+Plane found:... AN12 'Ptichka': v=1962.58, c=55420.00, r=11000.00, s=750.00
+Plane found:... AN225 'Mriya': v=64000.00, c=1300.00, r=15400.00, s=900.00
+Plane found:... SuperGuppy 'Ribka': v=2000.00, c=42420.00, r=14500.00, s=1000.00
+
+Looking for a specific plane...
+Requested plane was not found
+
+Driver loaded successfully -> OK
+Connection to database opened
+
+Start parsing xml file with airplanes
+
+Parsing planes in company :Belavia
+
+Current Element :plane
+Airplane id:          1
+Airplane name:        Boeing 737
+Airplane capacity:    200
+Airplane range:       5000
+Airplane volume:      150
+Airplane speed:       400
+
+Current Element :plane
+Airplane id:          2
+Airplane name:        Cessna
+Airplane capacity:    100
+Airplane range:       7540
+Airplane volume:      400
+Airplane speed:       750
+
+Current Element :plane
+Airplane id:          3
+Airplane name:        Airbus
+Airplane capacity:    4000
+Airplane range:       100000
+Airplane volume:      700
+Airplane speed:       1200
+
+XXXX REQUEST:com.mysql.jdbc.JDBC4PreparedStatement@19839755: SELECT * FROM airplanes
+Query successful -> OK
+
+Orel
+id:            1
+range:         15000
+capacity:      40000
+volume:        1300
+speed:         600
+
+Boeing 747
+id:            2
+range:         20000
+capacity:      42000
+volume:        1400
+speed:         800
+
+Boeing 777
+id:            3
+range:         25000
+capacity:      45000
+volume:        10000
+speed:         900
+
+Mriya
+id:            4
+range:         12000
+capacity:      450000
+volume:        100000
+speed:         700
+
+Dodo
+id:            5
+range:         11111
+capacity:      12345
+volume:        13000
+speed:         700
+
+Bee
+id:            6
+range:         50000
+capacity:      55000
+volume:        1500
+speed:         500
+
+Boeing 747
+id:            7
+range:         20000
+capacity:      42000
+volume:        1400
+speed:         800
+
+Boeing 737
+id:            8
+range:         22000
+capacity:      3000
+volume:        1000
+speed:         700
+
+Woodpecker
+id:            9
+range:         3456
+capacity:      22222
+volume:        15000
+speed:         888
+
+Airbus
+id:            10
+range:         4949
+capacity:      7000
+volume:        2200
+speed:         670
+
+Looking for Belavia in database
+XXXX REQUEST:com.mysql.jdbc.JDBC4PreparedStatement@2b42b123: SELECT `company_name` FROM `aviacompanies` WHERE `company_name` = 'Belavia'
+Query successful -> OK
+
+Company Belavia was found in DB
+
+Looking for a company Belavia in xml file
+Company Belavia was found

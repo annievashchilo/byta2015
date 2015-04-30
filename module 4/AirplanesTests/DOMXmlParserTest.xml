@@ -1,0 +1,13 @@
+<suite>
+    <test name="TestDOMXmlParser">
+        <classes>
+            <class name="tests.DOMXmlParserTest"/>
+            <groups>
+                <run>
+                    <include name="datautils"/>
+                    <parameter name="companyName" value="Lufthansa"/>
+                </run>
+            </groups>
+        </classes>
+    </test>
+</suite>

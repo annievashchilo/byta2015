@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<companies>
+    <aviacompany name="Belavia">
+        <plane id="1">
+            <name>Boeing 737</name>
+            <capacity>200</capacity>
+            <speed>400</speed>
+            <volume>150</volume>
+            <range>5000</range>
+        </plane>
+        <plane id="2">
+            <name>Cessna</name>
+            <capacity>100</capacity>
+            <speed>750</speed>
+            <volume>400</volume>
+            <range>7540</range>
+        </plane>
+        <plane id="3">
+            <name>Airbus</name>
+            <capacity>4000</capacity>
+            <speed>1200</speed>
+            <volume>700</volume>
+            <range>100000</range>
+        </plane>
+    </aviacompany>
+    <aviacompany name="Lufthansa">
+        <plane id="4">
+            <name>Boeing 737</name>
+            <capacity>200</capacity>
+            <speed>400</speed>
+            <volume>150</volume>
+            <range>5000</range>
+        </plane>
+        <plane id="5">
+            <name>Cessna</name>
+            <capacity>100</capacity>
+            <speed>750</speed>
+            <volume>400</volume>
+            <range>7540</range>
+        </plane>
+        <plane id="6">
+            <name>Airbus</name>
+            <capacity>4000</capacity>
+            <speed>1200</speed>
+            <volume>700</volume>
+            <range>100000</range>
+        </plane>
+    </aviacompany>
+</companies>

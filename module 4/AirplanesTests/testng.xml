@@ -1,0 +1,36 @@
+<suite>
+    <test name="ALL">
+        <!--<groups>-->
+        <!--<run>-->
+        <!--<include name="aviacompany"/>-->
+        <!--<parameter name="expectedName" value="Belavia"/>-->
+        <!--<parameter name="companyName" value="Lufthansa"/>-->
+        <!--</run>-->
+        <!--</groups>-->
+        <classes>
+            <class name="tests.AviacompanyTest"/>
+            <class name="tests.DOMXmlParserTest"/>
+            <!--<methods>-->
+            <!--<include name="testCompanyCreated"/>-->
+            <!--<include name="testCompanyNotCreated"/>-->
+            <!--<include name="testCommonCapacity"/>-->
+            <!--<include name="testSearchPlaneByName"/>-->
+            <!--<include name="testFindPlane"/>-->
+            <!--<include name="testGetAviapark"/>-->
+            <!--</methods>-->
+            <parameter name="expectedName" value="Belavia"/>
+            <parameter name="companyName" value="Lufthansa"/>
+            <parameter name="planeName" value="Ribka"/>
+            <parameter name="invalidName" value="Belavia"/>
+
+            <parameter name="minCapacity" value="0"/>
+            <parameter name="maxCapacity" value="1"/>
+            <parameter name="minVolume" value="0"/>
+            <parameter name="maxVolume" value="1"/>
+            <parameter name="minRange" value="0"/>
+            <parameter name="maxRange" value="1"/>
+            <parameter name="minSpeed" value="0"/>
+            <parameter name="maxSpeed" value="1"/>
+        </classes>
+    </test>
+</suite>
