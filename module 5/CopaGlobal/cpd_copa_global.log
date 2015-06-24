@@ -1,0 +1,1047 @@
+2015-06-09 16:53:19 [INFO ] Handler:123 - Opening url...https://booking.westjet.com/InternetBooking/AirLowFareSearchExternal.do
+2015-06-09 16:53:26 [INFO ] Handler:105 - Opened UI is not production
+2015-06-09 16:53:26 [INFO ] Handler:112 - Page at https://booking.westjet.com/InternetBooking/AirLowFareSearchExternal.do is opened
+2015-06-09 16:53:26 [INFO ] TestFlights_RT:36 - Starting testcase TestWestJetFlight_RoundTrip
+2015-06-09 16:53:26 [INFO ] Handler:152 - Looking for element: By.xpath: //input[@id='tripTypeRT']
+2015-06-09 16:53:29 [INFO ] Handler:152 - Looking for element: By.xpath: //input[@id='tripTypeRT']
+2015-06-09 16:53:35 [INFO ] Handler:152 - Looking for element: By.xpath: //input[@id='outboundOption.originLocationName']
+2015-06-09 16:53:36 [INFO ] Handler:152 - Looking for element: By.xpath: //input[@id='outboundOption.originLocationName']
+2015-06-09 16:53:36 [INFO ] Handler:152 - Looking for element: By.xpath: //input[@id='outboundOption.originLocationName']
+2015-06-09 16:53:36 [INFO ] Handler:152 - Looking for element: By.xpath: //input[@id='outboundOption.destinationLocationName']
+2015-06-09 16:55:38 [INFO ] Handler:152 - Looking for element: By.xpath: //input[@id='outboundOption.destinationLocationName']
+2015-06-09 16:55:39 [INFO ] Handler:152 - Looking for element: By.xpath: //input[@id='outboundOption.originLocationName']
+2015-06-09 16:55:39 [INFO ] Handler:152 - Looking for element: By.xpath: //input[@id='outboundOption.destinationLocationName']
+2015-06-09 16:55:41 [INFO ] Handler:152 - Looking for element: By.xpath: //input[@id='outboundOption.originLocationName']
+2015-06-09 16:55:41 [INFO ] Handler:152 - Looking for element: By.xpath: //input[@id='outboundOption.originLocationName']
+2015-06-09 16:55:49 [INFO ] Handler:152 - Looking for element: By.xpath: //input[@id='tripTypeRT']
+2015-06-09 16:55:49 [INFO ] Handler:152 - Looking for element: By.xpath: //select[@id='guestTypes[0].amount']
+2015-06-09 16:55:49 [INFO ] SearchForm:87 - Setting dates
+2015-06-09 16:55:49 [INFO ] Handler:152 - Looking for element: By.cssSelector: td.calendarArea > div > a > img
+2015-06-09 16:55:50 [INFO ] Handler:152 - Looking for element: By.xpath: //a[@onclick='calendar.setDay({year:2015,month:6,day:25});return false']
+2015-06-09 16:55:50 [INFO ] Handler:152 - Looking for element: By.cssSelector: #returnBlockDate > table > tbody > tr > td.calendarArea > div > a > img
+2015-06-09 16:55:50 [INFO ] Handler:152 - Looking for element: By.xpath: //a[@onclick='calendar.setDay({year:2015,month:7,day:25});return false']
+2015-06-09 16:55:50 [INFO ] Handler:152 - Looking for element: By.xpath: //a[contains(text(),'Close')]
+2015-06-09 16:55:50 [INFO ] Handler:152 - Looking for element: By.xpath: //select[@id='guestTypes[0].amount']
+2015-06-09 16:55:51 [INFO ] Handler:152 - Looking for element: By.xpath: //select[@id='guestTypes[0].amount']
+2015-06-09 16:55:51 [INFO ] Handler:152 - Looking for element: By.xpath: //select[@id='guestTypes[0].amount']
+2015-06-09 16:56:03 [INFO ] Handler:152 - Looking for element: By.xpath: //select[@id='guestTypes[0].amount']
+2015-06-09 16:56:03 [INFO ] Handler:152 - Looking for element: By.xpath: //*[contains(@class,'botButtonSearch')]
+2015-06-09 16:56:03 [INFO ] Handler:165 - Close the current window, quitting the browser if it's the last window currently open.
+2015-06-09 16:56:17 [INFO ] Handler:123 - Opening url...https://booking.westjet.com/InternetBooking/AirLowFareSearchExternal.do
+2015-06-09 16:56:28 [INFO ] Handler:105 - Opened UI is not production
+2015-06-09 16:56:28 [INFO ] Handler:112 - Page at https://booking.westjet.com/InternetBooking/AirLowFareSearchExternal.do is opened
+2015-06-09 16:56:28 [INFO ] TestFlights_RT:36 - Starting testcase TestWestJetFlight_RoundTrip
+2015-06-09 16:56:28 [INFO ] Handler:152 - Looking for element: By.xpath: //input[@id='tripTypeRT']
+2015-06-09 16:56:29 [INFO ] Handler:165 - Close the current window, quitting the browser if it's the last window currently open.
+2015-06-09 16:57:50 [INFO ] Handler:123 - Opening url...https://booking.westjet.com/InternetBooking/AirLowFareSearchExternal.do
+2015-06-09 16:57:55 [INFO ] Handler:105 - Opened UI is not production
+2015-06-09 16:57:55 [INFO ] Handler:112 - Page at https://booking.westjet.com/InternetBooking/AirLowFareSearchExternal.do is opened
+2015-06-09 16:57:55 [INFO ] TestFlights_RT:36 - Starting testcase TestWestJetFlight_RoundTrip
+2015-06-09 16:57:55 [INFO ] Handler:152 - Looking for element: By.xpath: //input[@id='tripTypeRT']
+2015-06-09 16:57:56 [INFO ] Handler:165 - Close the current window, quitting the browser if it's the last window currently open.
+2015-06-09 16:58:10 [INFO ] Handler:123 - Opening url...https://booking.westjet.com/InternetBooking/AirLowFareSearchExternal.do
+2015-06-09 16:58:14 [INFO ] Handler:105 - Opened UI is not production
+2015-06-09 16:58:14 [INFO ] Handler:112 - Page at https://booking.westjet.com/InternetBooking/AirLowFareSearchExternal.do is opened
+2015-06-09 16:58:14 [INFO ] TestFlights_RT:36 - Starting testcase TestWestJetFlight_RoundTrip
+2015-06-09 16:58:15 [INFO ] Handler:152 - Looking for element: By.xpath: //input[@id='tripTypeRT']
+2015-06-09 16:58:56 [INFO ] Handler:152 - Looking for element: By.xpath: //input[@id='tripTypeRT']
+2015-06-09 16:58:57 [INFO ] Handler:152 - Looking for element: By.xpath: //input[@id='tripTypeRT']
+2015-06-09 16:58:59 [INFO ] Handler:152 - Looking for element: By.xpath: //input[@id='outboundOption.originLocationName']
+2015-06-09 16:59:00 [INFO ] Handler:152 - Looking for element: By.xpath: //input[@id='outboundOption.originLocationName']
+2015-06-09 16:59:00 [INFO ] Handler:152 - Looking for element: By.xpath: //input[@id='outboundOption.originLocationName']
+2015-06-09 16:59:00 [INFO ] Handler:152 - Looking for element: By.xpath: //input[@id='outboundOption.destinationLocationName']
+2015-06-09 16:59:05 [INFO ] Handler:152 - Looking for element: By.xpath: //input[@id='outboundOption.originLocationName']
+2015-06-09 16:59:05 [INFO ] Handler:152 - Looking for element: By.xpath: //input[@id='outboundOption.originLocationName']
+2015-06-09 16:59:06 [INFO ] Handler:152 - Looking for element: By.xpath: //input[@id='outboundOption.destinationLocationName']
+2015-06-09 16:59:16 [INFO ] Handler:152 - Looking for element: By.xpath: //input[@id='outboundOption.destinationLocationName']
+2015-06-09 16:59:16 [INFO ] Handler:152 - Looking for element: By.xpath: //input[@id='outboundOption.originLocationName']
+2015-06-09 16:59:16 [INFO ] Handler:152 - Looking for element: By.xpath: //input[@id='outboundOption.destinationLocationName']
+2015-06-09 16:59:18 [INFO ] Handler:152 - Looking for element: By.xpath: //input[@id='outboundOption.originLocationName']
+2015-06-09 16:59:20 [INFO ] Handler:152 - Looking for element: By.xpath: //input[@id='tripTypeRT']
+2015-06-09 16:59:20 [INFO ] Handler:152 - Looking for element: By.xpath: //select[@id='guestTypes[0].amount']
+2015-06-09 16:59:24 [INFO ] SearchForm:88 - Setting dates
+2015-06-09 16:59:25 [INFO ] Handler:152 - Looking for element: By.cssSelector: td.calendarArea > div > a > img
+2015-06-09 16:59:25 [INFO ] Handler:152 - Looking for element: By.cssSelector: td.calendarArea > div > a > img
+2015-06-09 16:59:25 [INFO ] Handler:152 - Looking for element: By.cssSelector: #returnBlockDate > table > tbody > tr > td.calendarArea > div > a > img
+2015-06-09 16:59:26 [INFO ] Handler:152 - Looking for element: By.cssSelector: td.calendarArea > div > a > img
+2015-06-09 16:59:27 [INFO ] Handler:152 - Looking for element: By.cssSelector: td.calendarArea > div > a > img
+2015-06-09 16:59:27 [INFO ] Handler:152 - Looking for element: By.cssSelector: #returnBlockDate > table > tbody > tr > td.calendarArea > div > a > img
+2015-06-09 16:59:28 [INFO ] Handler:152 - Looking for element: By.xpath: //a[@onclick='calendar.setDay({year:2015,month:6,day:25});return false']
+2015-06-09 16:59:28 [INFO ] Handler:152 - Looking for element: By.cssSelector: td.calendarArea > div > a > img
+2015-06-09 16:59:28 [INFO ] Handler:152 - Looking for element: By.cssSelector: #returnBlockDate > table > tbody > tr > td.calendarArea > div > a > img
+2015-06-09 16:59:28 [INFO ] Handler:152 - Looking for element: By.xpath: //a[contains(text(),'Close')]
+2015-06-09 16:59:29 [INFO ] Handler:152 - Looking for element: By.cssSelector: #returnBlockDate > table > tbody > tr > td.calendarArea > div > a > img
+2015-06-09 16:59:30 [INFO ] Handler:152 - Looking for element: By.cssSelector: #returnBlockDate > table > tbody > tr > td.calendarArea > div > a > img
+2015-06-09 16:59:30 [INFO ] Handler:152 - Looking for element: By.xpath: //a[contains(text(),'Close')]
+2015-06-09 16:59:32 [INFO ] Handler:152 - Looking for element: By.xpath: //a[@onclick='calendar.setDay({year:2015,month:7,day:25});return false']
+2015-06-09 16:59:33 [INFO ] Handler:152 - Looking for element: By.cssSelector: #returnBlockDate > table > tbody > tr > td.calendarArea > div > a > img
+2015-06-09 16:59:33 [INFO ] Handler:152 - Looking for element: By.xpath: //a[contains(text(),'Close')]
+2015-06-09 16:59:41 [INFO ] Handler:152 - Looking for element: By.xpath: //a[contains(text(),'Close')]
+2015-06-09 16:59:46 [INFO ] Handler:152 - Looking for element: By.xpath: //select[@id='guestTypes[0].amount']
+2015-06-09 16:59:50 [INFO ] Handler:152 - Looking for element: By.xpath: //select[@id='guestTypes[0].amount']
+2015-06-09 16:59:50 [INFO ] Handler:152 - Looking for element: By.xpath: //select[@id='guestTypes[0].amount']
+2015-06-09 16:59:50 [INFO ] Handler:152 - Looking for element: By.xpath: //select[@id='guestTypes[0].amount']
+2015-06-09 16:59:52 [INFO ] Handler:152 - Looking for element: By.xpath: //select[@id='guestTypes[0].amount']
+2015-06-09 16:59:54 [INFO ] Handler:152 - Looking for element: By.xpath: //*[contains(@class,'botButtonSearch')]
+2015-06-09 17:00:11 [INFO ] Handler:152 - Looking for element: By.xpath: //*[contains(@class,'botButtonSearch')]
+2015-06-09 17:00:11 [INFO ] Handler:152 - Looking for element: By.xpath: //*[contains(@class,'botButtonSearch')]
+2015-06-09 17:00:51 [INFO ] Handler:165 - Close the current window, quitting the browser if it's the last window currently open.
+2015-06-09 17:05:12 [INFO ] Handler:123 - Opening url...https://booking.westjet.com/InternetBooking/AirLowFareSearchExternal.do
+2015-06-09 17:05:18 [INFO ] Handler:105 - Opened UI is not production
+2015-06-09 17:05:18 [INFO ] Handler:112 - Page at https://booking.westjet.com/InternetBooking/AirLowFareSearchExternal.do is opened
+2015-06-09 17:05:18 [INFO ] TestFlights_RT:36 - Starting testcase TestWestJetFlight_RoundTrip
+2015-06-09 17:05:18 [INFO ] Handler:152 - Looking for element: By.xpath: //input[@id='tripTypeRT']
+2015-06-09 17:06:10 [INFO ] Handler:152 - Looking for element: By.xpath: //input[@id='tripTypeRT']
+2015-06-09 17:06:11 [INFO ] Handler:152 - Looking for element: By.xpath: //input[@id='tripTypeRT']
+2015-06-09 17:06:12 [INFO ] Handler:152 - Looking for element: By.xpath: //input[@id='outboundOption.originLocationName']
+2015-06-09 17:06:14 [INFO ] Handler:152 - Looking for element: By.xpath: //input[@id='outboundOption.originLocationName']
+2015-06-09 17:06:14 [INFO ] Handler:152 - Looking for element: By.xpath: //input[@id='outboundOption.originLocationName']
+2015-06-09 17:06:14 [INFO ] Handler:152 - Looking for element: By.xpath: //input[@id='outboundOption.destinationLocationName']
+2015-06-09 17:06:18 [INFO ] Handler:152 - Looking for element: By.xpath: //input[@id='outboundOption.originLocationName']
+2015-06-09 17:06:19 [INFO ] Handler:152 - Looking for element: By.xpath: //input[@id='outboundOption.originLocationName']
+2015-06-09 17:06:19 [INFO ] Handler:152 - Looking for element: By.xpath: //input[@id='outboundOption.destinationLocationName']
+2015-06-09 17:06:20 [INFO ] Handler:152 - Looking for element: By.xpath: //input[@id='outboundOption.destinationLocationName']
+2015-06-09 17:06:20 [INFO ] Handler:152 - Looking for element: By.xpath: //input[@id='outboundOption.originLocationName']
+2015-06-09 17:06:20 [INFO ] Handler:152 - Looking for element: By.xpath: //input[@id='outboundOption.destinationLocationName']
+2015-06-09 17:06:21 [INFO ] Handler:152 - Looking for element: By.xpath: //input[@id='outboundOption.originLocationName']
+2015-06-09 17:06:26 [INFO ] Handler:152 - Looking for element: By.xpath: //input[@id='tripTypeRT']
+2015-06-09 17:06:26 [INFO ] Handler:152 - Looking for element: By.xpath: //select[@id='guestTypes[0].amount']
+2015-06-09 17:06:39 [INFO ] SearchForm:88 - Setting dates
+2015-06-09 17:06:40 [INFO ] Handler:152 - Looking for element: By.cssSelector: td.calendarArea > div > a > img
+2015-06-09 17:06:41 [INFO ] Handler:152 - Looking for element: By.cssSelector: td.calendarArea > div > a > img
+2015-06-09 17:06:41 [INFO ] Handler:152 - Looking for element: By.cssSelector: #returnBlockDate > table > tbody > tr > td.calendarArea > div > a > img
+2015-06-09 17:06:46 [INFO ] Handler:152 - Looking for element: By.cssSelector: td.calendarArea > div > a > img
+2015-06-09 17:06:47 [INFO ] Handler:152 - Looking for element: By.cssSelector: td.calendarArea > div > a > img
+2015-06-09 17:06:47 [INFO ] Handler:152 - Looking for element: By.cssSelector: #returnBlockDate > table > tbody > tr > td.calendarArea > div > a > img
+2015-06-09 17:06:49 [INFO ] Handler:152 - Looking for element: By.xpath: //a[@onclick='calendar.setDay({year:2015,month:6,day:25});return false']
+2015-06-09 17:06:49 [INFO ] Handler:152 - Looking for element: By.cssSelector: td.calendarArea > div > a > img
+2015-06-09 17:06:49 [INFO ] Handler:152 - Looking for element: By.cssSelector: #returnBlockDate > table > tbody > tr > td.calendarArea > div > a > img
+2015-06-09 17:06:49 [INFO ] Handler:152 - Looking for element: By.xpath: //a[contains(text(),'Close')]
+2015-06-09 17:06:50 [INFO ] Handler:152 - Looking for element: By.cssSelector: #returnBlockDate > table > tbody > tr > td.calendarArea > div > a > img
+2015-06-09 17:06:50 [INFO ] Handler:152 - Looking for element: By.cssSelector: #returnBlockDate > table > tbody > tr > td.calendarArea > div > a > img
+2015-06-09 17:06:51 [INFO ] Handler:152 - Looking for element: By.xpath: //a[contains(text(),'Close')]
+2015-06-09 17:06:51 [INFO ] Handler:152 - Looking for element: By.xpath: //a[@onclick='calendar.setDay({year:2015,month:7,day:25});return false']
+2015-06-09 17:06:51 [INFO ] Handler:152 - Looking for element: By.cssSelector: #returnBlockDate > table > tbody > tr > td.calendarArea > div > a > img
+2015-06-09 17:06:51 [INFO ] Handler:152 - Looking for element: By.xpath: //a[contains(text(),'Close')]
+2015-06-09 17:06:52 [INFO ] Handler:152 - Looking for element: By.xpath: //a[contains(text(),'Close')]
+2015-06-09 17:06:54 [INFO ] Handler:152 - Looking for element: By.xpath: //select[@id='guestTypes[0].amount']
+2015-06-09 17:06:57 [INFO ] Handler:152 - Looking for element: By.xpath: //select[@id='guestTypes[0].amount']
+2015-06-09 17:06:57 [INFO ] Handler:152 - Looking for element: By.xpath: //select[@id='guestTypes[0].amount']
+2015-06-09 17:06:57 [INFO ] Handler:152 - Looking for element: By.xpath: //select[@id='guestTypes[0].amount']
+2015-06-09 17:06:59 [INFO ] Handler:152 - Looking for element: By.xpath: //select[@id='guestTypes[0].amount']
+2015-06-09 17:07:01 [INFO ] Handler:152 - Looking for element: By.xpath: //a[@onclick='checkReservationStatus();return false;']
+2015-06-09 17:07:05 [INFO ] Handler:152 - Looking for element: By.xpath: //a[@onclick='checkReservationStatus();return false;']
+2015-06-09 17:07:05 [INFO ] Handler:152 - Looking for element: By.xpath: //a[@onclick='checkReservationStatus();return false;']
+2015-06-09 17:07:40 [INFO ] Handler:165 - Close the current window, quitting the browser if it's the last window currently open.
+2015-06-09 17:07:59 [INFO ] Handler:123 - Opening url...https://booking.westjet.com/InternetBooking/AirLowFareSearchExternal.do
+2015-06-09 17:08:06 [INFO ] Handler:105 - Opened UI is not production
+2015-06-09 17:08:06 [INFO ] Handler:112 - Page at https://booking.westjet.com/InternetBooking/AirLowFareSearchExternal.do is opened
+2015-06-09 17:08:06 [INFO ] TestFlights_RT:36 - Starting testcase TestWestJetFlight_RoundTrip
+2015-06-09 17:08:06 [INFO ] Handler:152 - Looking for element: By.xpath: //input[@id='tripTypeRT']
+2015-06-09 17:08:14 [INFO ] Handler:152 - Looking for element: By.xpath: //input[@id='tripTypeRT']
+2015-06-09 17:08:14 [INFO ] Handler:152 - Looking for element: By.xpath: //input[@id='tripTypeRT']
+2015-06-09 17:08:17 [INFO ] Handler:152 - Looking for element: By.xpath: //input[@id='outboundOption.originLocationName']
+2015-06-09 17:08:21 [INFO ] Handler:152 - Looking for element: By.xpath: //input[@id='outboundOption.originLocationName']
+2015-06-09 17:08:21 [INFO ] Handler:152 - Looking for element: By.xpath: //input[@id='outboundOption.originLocationName']
+2015-06-09 17:08:21 [INFO ] Handler:152 - Looking for element: By.xpath: //input[@id='outboundOption.destinationLocationName']
+2015-06-09 17:08:31 [INFO ] Handler:152 - Looking for element: By.xpath: //input[@id='outboundOption.originLocationName']
+2015-06-09 17:08:31 [INFO ] Handler:152 - Looking for element: By.xpath: //input[@id='outboundOption.originLocationName']
+2015-06-09 17:08:31 [INFO ] Handler:152 - Looking for element: By.xpath: //input[@id='outboundOption.destinationLocationName']
+2015-06-09 17:08:54 [INFO ] Handler:152 - Looking for element: By.xpath: //input[@id='outboundOption.destinationLocationName']
+2015-06-09 17:08:54 [INFO ] Handler:152 - Looking for element: By.xpath: //input[@id='outboundOption.originLocationName']
+2015-06-09 17:08:54 [INFO ] Handler:152 - Looking for element: By.xpath: //input[@id='outboundOption.destinationLocationName']
+2015-06-09 17:08:57 [INFO ] Handler:152 - Looking for element: By.xpath: //input[@id='outboundOption.originLocationName']
+2015-06-09 17:09:59 [INFO ] Handler:152 - Looking for element: By.xpath: //input[@id='tripTypeRT']
+2015-06-09 17:09:59 [INFO ] Handler:152 - Looking for element: By.xpath: //select[@id='guestTypes[0].amount']
+2015-06-09 17:10:04 [INFO ] SearchForm:88 - Setting dates
+2015-06-09 17:10:04 [INFO ] Handler:152 - Looking for element: By.cssSelector: td.calendarArea > div > a > img
+2015-06-09 17:10:08 [INFO ] Handler:152 - Looking for element: By.cssSelector: td.calendarArea > div > a > img
+2015-06-09 17:10:08 [INFO ] Handler:152 - Looking for element: By.cssSelector: #returnBlockDate > table > tbody > tr > td.calendarArea > div > a > img
+2015-06-09 17:10:12 [INFO ] Handler:152 - Looking for element: By.cssSelector: td.calendarArea > div > a > img
+2015-06-09 17:10:12 [INFO ] Handler:152 - Looking for element: By.cssSelector: td.calendarArea > div > a > img
+2015-06-09 17:10:12 [INFO ] Handler:152 - Looking for element: By.cssSelector: #returnBlockDate > table > tbody > tr > td.calendarArea > div > a > img
+2015-06-09 17:10:13 [INFO ] Handler:152 - Looking for element: By.xpath: //a[@onclick='calendar.setDay({year:2015,month:6,day:25});return false']
+2015-06-09 17:10:13 [INFO ] Handler:152 - Looking for element: By.cssSelector: td.calendarArea > div > a > img
+2015-06-09 17:10:13 [INFO ] Handler:152 - Looking for element: By.cssSelector: #returnBlockDate > table > tbody > tr > td.calendarArea > div > a > img
+2015-06-09 17:10:13 [INFO ] Handler:152 - Looking for element: By.xpath: //a[contains(text(),'Close')]
+2015-06-09 17:10:15 [INFO ] Handler:152 - Looking for element: By.cssSelector: #returnBlockDate > table > tbody > tr > td.calendarArea > div > a > img
+2015-06-09 17:10:15 [INFO ] Handler:152 - Looking for element: By.cssSelector: #returnBlockDate > table > tbody > tr > td.calendarArea > div > a > img
+2015-06-09 17:10:15 [INFO ] Handler:152 - Looking for element: By.xpath: //a[contains(text(),'Close')]
+2015-06-09 17:10:16 [INFO ] Handler:152 - Looking for element: By.xpath: //a[@onclick='calendar.setDay({year:2015,month:7,day:25});return false']
+2015-06-09 17:10:16 [INFO ] Handler:152 - Looking for element: By.cssSelector: #returnBlockDate > table > tbody > tr > td.calendarArea > div > a > img
+2015-06-09 17:10:16 [INFO ] Handler:152 - Looking for element: By.xpath: //a[contains(text(),'Close')]
+2015-06-09 17:10:19 [INFO ] Handler:152 - Looking for element: By.xpath: //a[contains(text(),'Close')]
+2015-06-09 17:10:22 [INFO ] Handler:152 - Looking for element: By.xpath: //select[@id='guestTypes[0].amount']
+2015-06-09 17:10:24 [INFO ] Handler:152 - Looking for element: By.xpath: //select[@id='guestTypes[0].amount']
+2015-06-09 17:10:24 [INFO ] Handler:152 - Looking for element: By.xpath: //select[@id='guestTypes[0].amount']
+2015-06-09 17:10:24 [INFO ] Handler:152 - Looking for element: By.xpath: //select[@id='guestTypes[0].amount']
+2015-06-09 17:10:27 [INFO ] Handler:152 - Looking for element: By.xpath: //select[@id='guestTypes[0].amount']
+2015-06-09 17:10:31 [INFO ] Handler:152 - Looking for element: By.xpath: //a[@onclick='checkReservationStatus();return false;']
+2015-06-09 17:10:34 [INFO ] Handler:152 - Looking for element: By.xpath: //a[@onclick='checkReservationStatus();return false;']
+2015-06-09 17:10:35 [INFO ] Handler:152 - Looking for element: By.xpath: //a[@onclick='checkReservationStatus();return false;']
+2015-06-10 05:44:39 [INFO ] Handler:123 - Opening url...https://booking.westjet.com/InternetBooking/AirLowFareSearchExternal.do
+2015-06-10 05:44:50 [INFO ] Handler:105 - Opened UI is not production
+2015-06-10 05:44:50 [INFO ] Handler:112 - Page at https://booking.westjet.com/InternetBooking/AirLowFareSearchExternal.do is opened
+2015-06-10 05:44:50 [INFO ] TestFlights_RT:40 - Starting testcase TestWestJetFlight_RoundTrip
+2015-06-10 05:44:52 [INFO ] Handler:152 - Looking for element: By.xpath: //input[@id='tripTypeRT']
+2015-06-10 05:44:56 [INFO ] Handler:152 - Looking for element: By.xpath: //input[@id='tripTypeRT']
+2015-06-10 05:44:58 [INFO ] Handler:152 - Looking for element: By.xpath: //input[@id='outboundOption.originLocationName']
+2015-06-10 05:45:00 [INFO ] Handler:152 - Looking for element: By.xpath: //input[@id='outboundOption.originLocationName']
+2015-06-10 05:45:01 [INFO ] Handler:152 - Looking for element: By.xpath: //input[@id='outboundOption.originLocationName']
+2015-06-10 05:45:01 [INFO ] Handler:152 - Looking for element: By.xpath: //input[@id='outboundOption.destinationLocationName']
+2015-06-10 05:45:27 [INFO ] Handler:152 - Looking for element: By.xpath: //input[@id='outboundOption.originLocationName']
+2015-06-10 05:45:27 [INFO ] Handler:152 - Looking for element: By.xpath: //input[@id='outboundOption.originLocationName']
+2015-06-10 05:45:27 [INFO ] Handler:152 - Looking for element: By.xpath: //input[@id='outboundOption.destinationLocationName']
+2015-06-10 05:45:33 [INFO ] Handler:152 - Looking for element: By.xpath: //input[@id='outboundOption.destinationLocationName']
+2015-06-10 05:45:33 [INFO ] Handler:152 - Looking for element: By.xpath: //input[@id='outboundOption.originLocationName']
+2015-06-10 05:45:33 [INFO ] Handler:152 - Looking for element: By.xpath: //input[@id='outboundOption.destinationLocationName']
+2015-06-10 05:45:38 [INFO ] Handler:152 - Looking for element: By.xpath: //input[@id='outboundOption.originLocationName']
+2015-06-10 05:46:32 [INFO ] Handler:152 - Looking for element: By.xpath: //input[@id='tripTypeRT']
+2015-06-10 05:46:32 [INFO ] Handler:152 - Looking for element: By.xpath: //select[@id='guestTypes[0].amount']
+2015-06-10 05:46:36 [INFO ] SearchForm:85 - Setting dates
+2015-06-10 05:46:38 [INFO ] Handler:152 - Looking for element: By.cssSelector: td.calendarArea > div > a > img
+2015-06-10 05:46:38 [INFO ] Handler:152 - Looking for element: By.cssSelector: #returnBlockDate > table > tbody > tr > td.calendarArea > div > a > img
+2015-06-10 05:46:39 [INFO ] Handler:152 - Looking for element: By.cssSelector: td.calendarArea > div > a > img
+2015-06-10 05:46:40 [INFO ] Handler:152 - Looking for element: By.cssSelector: td.calendarArea > div > a > img
+2015-06-10 05:46:40 [INFO ] Handler:152 - Looking for element: By.cssSelector: #returnBlockDate > table > tbody > tr > td.calendarArea > div > a > img
+2015-06-10 05:46:42 [INFO ] Handler:152 - Looking for element: By.xpath: //a[@onclick='calendar.setDay({year:2015,month:6,day:25});return false']
+2015-06-10 05:46:43 [INFO ] Handler:152 - Looking for element: By.cssSelector: td.calendarArea > div > a > img
+2015-06-10 05:46:43 [INFO ] Handler:152 - Looking for element: By.cssSelector: #returnBlockDate > table > tbody > tr > td.calendarArea > div > a > img
+2015-06-10 05:46:43 [INFO ] Handler:152 - Looking for element: By.xpath: //a[contains(text(),'Close')]
+2015-06-10 05:46:44 [INFO ] Handler:152 - Looking for element: By.cssSelector: #returnBlockDate > table > tbody > tr > td.calendarArea > div > a > img
+2015-06-10 05:46:44 [INFO ] Handler:152 - Looking for element: By.cssSelector: #returnBlockDate > table > tbody > tr > td.calendarArea > div > a > img
+2015-06-10 05:46:44 [INFO ] Handler:152 - Looking for element: By.xpath: //a[contains(text(),'Close')]
+2015-06-10 05:46:45 [INFO ] Handler:152 - Looking for element: By.xpath: //a[@onclick='calendar.setDay({year:2015,month:7,day:25});return false']
+2015-06-10 05:46:46 [INFO ] Handler:152 - Looking for element: By.cssSelector: #returnBlockDate > table > tbody > tr > td.calendarArea > div > a > img
+2015-06-10 05:46:46 [INFO ] Handler:152 - Looking for element: By.xpath: //a[contains(text(),'Close')]
+2015-06-10 05:46:50 [INFO ] Handler:152 - Looking for element: By.xpath: //a[contains(text(),'Close')]
+2015-06-10 05:46:53 [INFO ] Handler:152 - Looking for element: By.xpath: //select[@id='guestTypes[0].amount']
+2015-06-10 05:46:54 [INFO ] Handler:152 - Looking for element: By.xpath: //select[@id='guestTypes[0].amount']
+2015-06-10 05:46:55 [INFO ] Handler:152 - Looking for element: By.xpath: //select[@id='guestTypes[0].amount']
+2015-06-10 05:46:55 [INFO ] Handler:152 - Looking for element: By.xpath: //select[@id='guestTypes[0].amount']
+2015-06-10 05:46:56 [INFO ] Handler:152 - Looking for element: By.xpath: //select[@id='guestTypes[0].amount']
+2015-06-10 05:47:00 [INFO ] Handler:152 - Looking for element: By.xpath: //a[@onclick='checkReservationStatus();return false;']
+2015-06-10 05:47:04 [INFO ] Handler:152 - Looking for element: By.xpath: //a[@onclick='checkReservationStatus();return false;']
+2015-06-10 05:47:05 [INFO ] Handler:152 - Looking for element: By.xpath: //a[@onclick='checkReservationStatus();return false;']
+2015-06-10 05:47:26 [INFO ] Handler:165 - Close the current window, quitting the browser if it's the last window currently open.
+2015-06-11 04:21:07 [INFO ] Handler:104 - Opening url...https://booking.westjet.com/InternetBooking/AirLowFareSearchExternal.do
+2015-06-11 04:21:15 [INFO ] Handler:89 - Opened UI is not production
+2015-06-11 04:21:15 [INFO ] Handler:95 - Page at https://booking.westjet.com/InternetBooking/AirLowFareSearchExternal.do is opened
+2015-06-11 04:21:15 [INFO ] TestFlights_RT:37 - Starting testcase TestWestJetFlight_RoundTrip
+2015-06-11 04:23:12 [INFO ] Handler:129 - Looking for element: By.xpath: //a[@onclick='checkReservationStatus();return false;']
+2015-06-11 04:23:14 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='tripTypeRT']
+2015-06-11 04:23:16 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='tripTypeRT']
+2015-06-11 04:23:17 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='tripTypeRT']
+2015-06-11 04:23:17 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='tripTypeRT']
+2015-06-11 04:23:19 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='outboundOption.originLocationName']
+2015-06-11 04:23:27 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='outboundOption.originLocationName']
+2015-06-11 04:23:27 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='outboundOption.originLocationName']
+2015-06-11 04:23:27 [INFO ] Handler:129 - Looking for element: By.xpath: //*[contains(@id,'drilldownItem')]
+2015-06-11 04:23:29 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='outboundOption.originLocationName']
+2015-06-11 04:23:29 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='outboundOption.originLocationName']
+2015-06-11 04:23:29 [INFO ] Handler:129 - Looking for element: By.xpath: //*[contains(@id,'drilldownItem')]
+2015-06-11 04:23:32 [INFO ] Handler:129 - Looking for element: By.xpath: //*[contains(@id,'drilldownItem')]
+2015-06-11 04:23:33 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='outboundOption.destinationLocationName']
+2015-06-11 04:23:41 [ERROR] SearchForm:140 - Route element was not found.
+org.openqa.selenium.NoSuchElementException: no such element
+  (Session info: chrome=43.0.2357.81)
+  (Driver info: chromedriver=2.14.313457 (3d645c400edf2e2c500566c9aa096063e707c9cf),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 24 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.46.0', revision: '87c69e2', time: '2015-06-04 16:16:47'
+System info: host: 'EPBYMINW3332', ip: '10.6.158.69', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_45'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\Hanna_Vashchilo\AppData\Local\Temp\scoped_dir24308_19464}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, version=43.0.2357.81, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: a1e43cced9b0bc34bcf7c71aae1da01f
+*** Element info: {Using=xpath, value=//*[contains(@id,'drilldownItem')]}
+Command duration or timeout: 1.09 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.45.0', revision: '5017cb8e7ca8e37638dc3091b2440b90a1d8686f', time: '2015-02-27 09:10:26'
+System info: host: 'EPBYMINW3332', ip: '10.6.158.69', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_45'
+*** Element info: {Using=xpath, value=//*[contains(@id,'drilldownItem')]}
+Session ID: 642e6352-1e6f-4bfd-99b7-9ae6f8980030
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities [{platform=XP, javascriptEnabled=true, acceptSslCerts=true, browserName=chrome, chrome={userDataDir=C:\Users\Hanna_Vashchilo\AppData\Local\Temp\scoped_dir24308_19464}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, webdriver.remote.sessionid=642e6352-1e6f-4bfd-99b7-9ae6f8980030, version=43.0.2357.81, takesHeapSnapshot=true, databaseEnabled=false, cssSelectorsEnabled=true, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, applicationCacheEnabled=false, takesScreenshot=true}]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:204)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:156)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:599)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:352)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:449)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:357)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:344)
+	at base.utils.Handler.findElement(Handler.java:130)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:59)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:37)
+	at com.sun.proxy.$Proxy9.getTagName(Unknown Source)
+	at org.openqa.selenium.support.ui.Select.<init>(Select.java:43)
+	at base.elements.SearchForm.setDestinations(SearchForm.java:127)
+	at base.elements.SearchForm.fillSearchForm(SearchForm.java:63)
+	at base.elements.SearchForm.search(SearchForm.java:74)
+	at base.pages.SearchPage.search(SearchPage.java:12)
+	at tests.TestFlights_RT.testRoundTripFlight(TestFlights_RT.java:38)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:673)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:842)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1166)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.runWorkers(TestRunner.java:1178)
+	at org.testng.TestRunner.privateRun(TestRunner.java:757)
+	at org.testng.TestRunner.run(TestRunner.java:608)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1158)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1083)
+	at org.testng.TestNG.run(TestNG.java:999)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:203)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:174)
+	at org.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:125)
+Caused by: org.openqa.selenium.remote.ScreenshotException: Screen shot has been taken
+Build info: version: '2.45.0', revision: '5017cb8e7ca8e37638dc3091b2440b90a1d8686f', time: '2015-02-27 09:10:26'
+System info: host: 'EPBYMINW3332', ip: '10.6.158.69', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_45'
+Driver info: driver.version: RemoteWebDriver
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:136)
+	... 41 more
+Caused by: org.openqa.selenium.NoSuchElementException: no such element
+  (Session info: chrome=43.0.2357.81)
+  (Driver info: chromedriver=2.14.313457 (3d645c400edf2e2c500566c9aa096063e707c9cf),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 24 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.46.0', revision: '87c69e2', time: '2015-06-04 16:16:47'
+System info: host: 'EPBYMINW3332', ip: '10.6.158.69', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_45'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\Hanna_Vashchilo\AppData\Local\Temp\scoped_dir24308_19464}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, version=43.0.2357.81, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: a1e43cced9b0bc34bcf7c71aae1da01f
+*** Element info: {Using=xpath, value=//*[contains(@id,'drilldownItem')]}
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.45.0', revision: '5017cb8e7ca8e37638dc3091b2440b90a1d8686f', time: '2015-02-27 09:10:26'
+System info: host: 'EPBYMINW3332', ip: '10.6.158.69', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_45'
+Driver info: driver.version: EventFiringWebDriver
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:204)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:156)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:605)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:358)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:455)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:358)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:350)
+	at sun.reflect.GeneratedMethodAccessor31.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$2.invoke(EventFiringWebDriver.java:102)
+	at com.sun.proxy.$Proxy1.findElement(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver.findElement(EventFiringWebDriver.java:185)
+	at org.openqa.selenium.remote.server.handler.FindElement.call(FindElement.java:48)
+	at org.openqa.selenium.remote.server.handler.FindElement.call(FindElement.java:1)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at org.openqa.selenium.remote.server.DefaultSession$1.run(DefaultSession.java:176)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2015-06-11 04:23:41 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='tripTypeRT']
+2015-06-11 04:23:41 [INFO ] Handler:129 - Looking for element: By.xpath: //select[@id='guestTypes[0].amount']
+2015-06-11 04:25:15 [INFO ] SearchForm:84 - Setting dates
+2015-06-11 04:25:15 [INFO ] Handler:129 - Looking for element: By.cssSelector: td.calendarArea > div > a > img
+2015-06-11 04:25:17 [INFO ] Handler:129 - Looking for element: By.xpath: //a[@onclick='calendar.setDay({year:2015,month:6,day:25});return false']
+2015-06-11 04:25:17 [INFO ] Handler:129 - Looking for element: By.cssSelector: #returnBlockDate > table > tbody > tr > td.calendarArea > div > a > img
+2015-06-11 04:25:17 [INFO ] Handler:129 - Looking for element: By.xpath: //a[@onclick='calendar.setDay({year:2015,month:7,day:25});return false']
+2015-06-11 04:25:18 [INFO ] Handler:129 - Looking for element: By.xpath: //a[contains(text(),'Close')]
+2015-06-11 04:25:18 [INFO ] Handler:129 - Looking for element: By.xpath: //select[@id='guestTypes[0].amount']
+2015-06-11 04:25:18 [INFO ] Handler:129 - Looking for element: By.xpath: //select[@id='guestTypes[0].amount']
+2015-06-11 04:25:18 [INFO ] Handler:129 - Looking for element: By.xpath: //select[@id='guestTypes[0].amount']
+2015-06-11 04:25:28 [INFO ] Handler:129 - Looking for element: By.xpath: //select[@id='guestTypes[0].amount']
+2015-06-11 04:25:29 [INFO ] Handler:129 - Looking for element: By.xpath: //a[@onclick='checkReservationStatus();return false;']
+2015-06-11 04:25:38 [INFO ] Handler:129 - Looking for element: By.xpath: //a[@onclick='checkReservationStatus();return false;']
+2015-06-11 04:25:39 [INFO ] Handler:129 - Looking for element: By.xpath: //a[@onclick='checkReservationStatus();return false;']
+2015-06-11 04:25:43 [INFO ] Handler:129 - Looking for element: By.xpath: //a[@onclick='checkReservationStatus();return false;']
+2015-06-11 04:26:21 [INFO ] Handler:129 - Looking for element: By.xpath: //td[@id='summaryBot_Left_botTotalPrice']
+2015-06-11 04:26:22 [INFO ] Handler:129 - Looking for element: By.xpath: //a[@id='pgButtonNext']
+2015-06-11 04:26:22 [INFO ] Handler:129 - Looking for element: By.xpath: //a[@id='pgButtonNext']
+2015-06-11 04:26:53 [INFO ] Handler:129 - Looking for element: By.cssSelector: #summaryBot_Left_botTotalPrice
+2015-06-11 04:26:56 [INFO ] BaseTest:26 - Total prices are equal -> OK!
+2015-06-11 04:27:00 [INFO ] Handler:129 - Looking for element: By.xpath: //a[@id='pgButtonNext']
+2015-06-11 04:27:00 [INFO ] Handler:129 - Looking for element: By.xpath: //a[@id='pgButtonNext']
+2015-06-11 04:27:19 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='travellersInfo[0].firstName']
+2015-06-11 04:27:19 [INFO ] Handler:129 - Looking for element: By.xpath: //select[@id='travellersInfo[0].title']
+2015-06-11 04:27:33 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='travellersInfo[0].firstName']
+2015-06-11 04:27:33 [INFO ] Handler:129 - Looking for element: By.xpath: //select[@id='travellersInfo[0].title']
+2015-06-11 04:27:58 [INFO ] Handler:129 - Looking for element: By.xpath: //select[@id='travellersInfo[0].title']
+2015-06-11 04:27:58 [INFO ] Handler:129 - Looking for element: By.xpath: //select[@id='travellersInfo[0].title']
+2015-06-11 04:27:58 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='travellersInfo[0].firstName']
+2015-06-11 04:27:58 [INFO ] Handler:129 - Looking for element: By.xpath: //select[@id='travellersInfo[0].title']
+2015-06-11 04:28:02 [INFO ] Handler:129 - Looking for element: By.xpath: //select[@id='travellersInfo[0].title']
+2015-06-11 04:28:24 [INFO ] Handler:129 - Looking for element: By.xpath: //select[@id='travellersInfo[0].title']
+2015-06-11 04:29:02 [INFO ] Handler:140 - Close the current window, quitting the browser if it's the last window currently open.
+2015-06-11 04:31:59 [INFO ] Handler:104 - Opening url...https://booking.westjet.com/InternetBooking/AirLowFareSearchExternal.do
+2015-06-11 04:32:06 [INFO ] Handler:89 - Opened UI is not production
+2015-06-11 04:32:06 [INFO ] Handler:95 - Page at https://booking.westjet.com/InternetBooking/AirLowFareSearchExternal.do is opened
+2015-06-11 04:32:06 [INFO ] TestFlights_RT:37 - Starting testcase TestWestJetFlight_RoundTrip
+2015-06-11 04:32:20 [INFO ] Handler:129 - Looking for element: By.xpath: //a[@onclick='checkReservationStatus();return false;']
+2015-06-11 04:32:22 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='tripTypeRT']
+2015-06-11 04:32:24 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='tripTypeRT']
+2015-06-11 04:32:24 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='tripTypeRT']
+2015-06-11 04:32:24 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='tripTypeRT']
+2015-06-11 04:32:25 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='outboundOption.originLocationName']
+2015-06-11 04:32:32 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='outboundOption.originLocationName']
+2015-06-11 04:32:32 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='outboundOption.originLocationName']
+2015-06-11 04:32:36 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='outboundOption.originLocationName']
+2015-06-11 04:32:36 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='outboundOption.originLocationName']
+2015-06-11 04:32:36 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='outboundOption.destinationLocationName']
+2015-06-11 04:32:39 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='outboundOption.originLocationName']
+2015-06-11 04:32:39 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='outboundOption.destinationLocationName']
+2015-06-11 04:33:28 [INFO ] Handler:104 - Opening url...https://booking.westjet.com/InternetBooking/AirLowFareSearchExternal.do
+2015-06-11 04:33:35 [INFO ] Handler:89 - Opened UI is not production
+2015-06-11 04:33:35 [INFO ] Handler:95 - Page at https://booking.westjet.com/InternetBooking/AirLowFareSearchExternal.do is opened
+2015-06-11 04:33:35 [INFO ] TestFlights_RT:37 - Starting testcase TestWestJetFlight_RoundTrip
+2015-06-11 04:34:04 [INFO ] Handler:129 - Looking for element: By.xpath: //a[@onclick='checkReservationStatus();return false;']
+2015-06-11 04:34:06 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='tripTypeRT']
+2015-06-11 04:34:07 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='tripTypeRT']
+2015-06-11 04:34:08 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='tripTypeRT']
+2015-06-11 04:34:08 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='tripTypeRT']
+2015-06-11 04:34:09 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='outboundOption.originLocationName']
+2015-06-11 04:34:11 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='outboundOption.originLocationName']
+2015-06-11 04:34:11 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='outboundOption.originLocationName']
+2015-06-11 04:34:14 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='outboundOption.originLocationName']
+2015-06-11 04:34:15 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='outboundOption.originLocationName']
+2015-06-11 04:34:15 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='outboundOption.destinationLocationName']
+2015-06-11 04:34:18 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='outboundOption.originLocationName']
+2015-06-11 04:34:18 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='outboundOption.destinationLocationName']
+2015-06-11 04:34:19 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='outboundOption.originLocationName']
+2015-06-11 04:34:19 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='outboundOption.originLocationName']
+2015-06-11 04:34:19 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='outboundOption.destinationLocationName']
+2015-06-11 04:34:24 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='outboundOption.destinationLocationName']
+2015-06-11 04:34:24 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='outboundOption.destinationLocationName']
+2015-06-11 04:34:26 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='outboundOption.destinationLocationName']
+2015-06-11 04:35:30 [INFO ] Handler:104 - Opening url...https://booking.westjet.com/InternetBooking/AirLowFareSearchExternal.do
+2015-06-11 04:35:36 [INFO ] Handler:89 - Opened UI is not production
+2015-06-11 04:35:36 [INFO ] Handler:95 - Page at https://booking.westjet.com/InternetBooking/AirLowFareSearchExternal.do is opened
+2015-06-11 04:35:36 [INFO ] TestFlights_RT:37 - Starting testcase TestWestJetFlight_RoundTrip
+2015-06-11 04:36:48 [INFO ] Handler:129 - Looking for element: By.xpath: //a[@onclick='checkReservationStatus();return false;']
+2015-06-11 04:36:55 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='tripTypeRT']
+2015-06-11 04:36:57 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='tripTypeRT']
+2015-06-11 04:36:57 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='tripTypeRT']
+2015-06-11 04:36:58 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='tripTypeRT']
+2015-06-11 04:36:59 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='outboundOption.originLocationName']
+2015-06-11 04:37:04 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='outboundOption.originLocationName']
+2015-06-11 04:37:04 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='outboundOption.originLocationName']
+2015-06-11 04:37:04 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='outboundOption.destinationLocationName']
+2015-06-11 04:37:05 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='outboundOption.originLocationName']
+2015-06-11 04:37:05 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='outboundOption.destinationLocationName']
+2015-06-11 04:37:06 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='outboundOption.originLocationName']
+2015-06-11 04:37:06 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='outboundOption.originLocationName']
+2015-06-11 04:37:06 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='outboundOption.destinationLocationName']
+2015-06-11 04:37:07 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='outboundOption.destinationLocationName']
+2015-06-11 04:37:08 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='outboundOption.destinationLocationName']
+2015-06-11 04:37:10 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='outboundOption.destinationLocationName']
+2015-06-11 04:37:11 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='outboundOption.destinationLocationName']
+2015-06-11 04:37:14 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='tripTypeRT']
+2015-06-11 04:37:14 [INFO ] Handler:129 - Looking for element: By.xpath: //select[@id='guestTypes[0].amount']
+2015-06-11 04:37:14 [INFO ] SearchForm:84 - Setting dates
+2015-06-11 04:37:14 [INFO ] Handler:129 - Looking for element: By.cssSelector: td.calendarArea > div > a > img
+2015-06-11 04:37:15 [INFO ] Handler:129 - Looking for element: By.xpath: //a[@onclick='calendar.setDay({year:2015,month:6,day:25});return false']
+2015-06-11 04:37:15 [INFO ] Handler:129 - Looking for element: By.cssSelector: #returnBlockDate > table > tbody > tr > td.calendarArea > div > a > img
+2015-06-11 04:37:15 [INFO ] Handler:129 - Looking for element: By.xpath: //a[@onclick='calendar.setDay({year:2015,month:7,day:25});return false']
+2015-06-11 04:37:15 [INFO ] Handler:129 - Looking for element: By.xpath: //a[contains(text(),'Close')]
+2015-06-11 04:37:15 [INFO ] Handler:129 - Looking for element: By.xpath: //select[@id='guestTypes[0].amount']
+2015-06-11 04:37:17 [INFO ] Handler:129 - Looking for element: By.xpath: //select[@id='guestTypes[0].amount']
+2015-06-11 04:37:17 [INFO ] Handler:129 - Looking for element: By.xpath: //select[@id='guestTypes[0].amount']
+2015-06-11 04:37:17 [INFO ] Handler:129 - Looking for element: By.xpath: //select[@id='guestTypes[0].amount']
+2015-06-11 04:37:18 [INFO ] Handler:129 - Looking for element: By.xpath: //select[@id='guestTypes[0].amount']
+2015-06-11 04:37:21 [INFO ] Handler:129 - Looking for element: By.xpath: //a[@onclick='checkReservationStatus();return false;']
+2015-06-11 04:37:22 [INFO ] Handler:129 - Looking for element: By.xpath: //a[@onclick='checkReservationStatus();return false;']
+2015-06-11 04:37:22 [INFO ] Handler:129 - Looking for element: By.xpath: //a[@onclick='checkReservationStatus();return false;']
+2015-06-11 04:39:18 [INFO ] Handler:104 - Opening url...https://booking.westjet.com/InternetBooking/AirLowFareSearchExternal.do
+2015-06-11 04:39:22 [INFO ] Handler:89 - Opened UI is not production
+2015-06-11 04:39:22 [INFO ] Handler:95 - Page at https://booking.westjet.com/InternetBooking/AirLowFareSearchExternal.do is opened
+2015-06-11 04:39:22 [INFO ] TestFlights_RT:37 - Starting testcase TestWestJetFlight_RoundTrip
+2015-06-11 04:39:44 [INFO ] Handler:129 - Looking for element: By.xpath: //a[@onclick='checkReservationStatus();return false;']
+2015-06-11 04:39:45 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='tripTypeRT']
+2015-06-11 04:39:47 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='tripTypeRT']
+2015-06-11 04:39:48 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='tripTypeRT']
+2015-06-11 04:39:49 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='tripTypeRT']
+2015-06-11 04:39:50 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='outboundOption.originLocationName']
+2015-06-11 04:39:53 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='outboundOption.originLocationName']
+2015-06-11 04:39:53 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='outboundOption.originLocationName']
+2015-06-11 04:39:53 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='outboundOption.destinationLocationName']
+2015-06-11 04:39:54 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='outboundOption.originLocationName']
+2015-06-11 04:39:54 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='outboundOption.destinationLocationName']
+2015-06-11 04:39:55 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='outboundOption.originLocationName']
+2015-06-11 04:39:55 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='outboundOption.originLocationName']
+2015-06-11 04:39:55 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='outboundOption.destinationLocationName']
+2015-06-11 04:39:55 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='outboundOption.destinationLocationName']
+2015-06-11 04:39:56 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='outboundOption.destinationLocationName']
+2015-06-11 04:39:57 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='outboundOption.destinationLocationName']
+2015-06-11 04:39:57 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='outboundOption.destinationLocationName']
+2015-06-11 04:39:59 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='tripTypeRT']
+2015-06-11 04:39:59 [INFO ] Handler:129 - Looking for element: By.xpath: //select[@id='guestTypes[0].amount']
+2015-06-11 04:40:02 [INFO ] SearchForm:84 - Setting dates
+2015-06-11 04:40:02 [INFO ] Handler:129 - Looking for element: By.cssSelector: td.calendarArea > div > a > img
+2015-06-11 04:40:02 [INFO ] Handler:129 - Looking for element: By.xpath: //a[@onclick='calendar.setDay({year:2015,month:6,day:25});return false']
+2015-06-11 04:40:03 [INFO ] Handler:129 - Looking for element: By.cssSelector: #returnBlockDate > table > tbody > tr > td.calendarArea > div > a > img
+2015-06-11 04:40:03 [INFO ] Handler:129 - Looking for element: By.xpath: //a[@onclick='calendar.setDay({year:2015,month:7,day:25});return false']
+2015-06-11 04:40:03 [INFO ] Handler:129 - Looking for element: By.xpath: //a[contains(text(),'Close')]
+2015-06-11 04:40:03 [INFO ] Handler:129 - Looking for element: By.xpath: //select[@id='guestTypes[0].amount']
+2015-06-11 04:40:04 [INFO ] Handler:129 - Looking for element: By.xpath: //select[@id='guestTypes[0].amount']
+2015-06-11 04:40:04 [INFO ] Handler:129 - Looking for element: By.xpath: //select[@id='guestTypes[0].amount']
+2015-06-11 04:40:04 [INFO ] Handler:129 - Looking for element: By.xpath: //select[@id='guestTypes[0].amount']
+2015-06-11 04:40:04 [INFO ] Handler:129 - Looking for element: By.xpath: //select[@id='guestTypes[0].amount']
+2015-06-11 04:40:05 [INFO ] Handler:129 - Looking for element: By.xpath: //a[@onclick='checkReservationStatus();return false;']
+2015-06-11 04:40:10 [INFO ] Handler:129 - Looking for element: By.xpath: //a[@onclick='checkReservationStatus();return false;']
+2015-06-11 04:40:10 [INFO ] Handler:129 - Looking for element: By.xpath: //a[@onclick='checkReservationStatus();return false;']
+2015-06-11 04:40:18 [INFO ] Handler:129 - Looking for element: By.xpath: //a[@onclick='checkReservationStatus();return false;']
+2015-06-11 04:41:51 [INFO ] Handler:129 - Looking for element: By.xpath: //td[@id='summaryBot_Left_botTotalPrice']
+2015-06-11 04:41:52 [INFO ] Handler:129 - Looking for element: By.xpath: //a[@id='pgButtonNext']
+2015-06-11 04:41:52 [INFO ] Handler:129 - Looking for element: By.xpath: //a[@id='pgButtonNext']
+2015-06-11 04:42:10 [INFO ] Handler:129 - Looking for element: By.cssSelector: #summaryBot_Left_botTotalPrice
+2015-06-11 04:42:11 [INFO ] BaseTest:26 - Total prices are equal -> OK!
+2015-06-11 04:42:13 [INFO ] Handler:129 - Looking for element: By.xpath: //a[@id='pgButtonNext']
+2015-06-11 04:42:13 [INFO ] Handler:129 - Looking for element: By.xpath: //a[@id='pgButtonNext']
+2015-06-11 04:42:24 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='travellersInfo[0].firstName']
+2015-06-11 04:42:25 [INFO ] Handler:129 - Looking for element: By.xpath: //select[@id='travellersInfo[0].title']
+2015-06-11 04:42:26 [INFO ] Handler:129 - Looking for element: By.xpath: //select[@id='travellersInfo[0].title']
+2015-06-11 04:42:26 [INFO ] Handler:129 - Looking for element: By.xpath: //select[@id='travellersInfo[0].title']
+2015-06-11 04:42:26 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='travellersInfo[0].firstName']
+2015-06-11 04:42:26 [INFO ] Handler:129 - Looking for element: By.xpath: //select[@id='travellersInfo[0].title']
+2015-06-11 04:42:28 [INFO ] Handler:129 - Looking for element: By.xpath: //select[@id='travellersInfo[0].title']
+2015-06-11 04:42:28 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='travellersInfo[0].firstName']
+2015-06-11 04:42:29 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='travellersInfo[0].lastName']
+2015-06-11 04:42:29 [INFO ] Handler:129 - Looking for element: By.cssSelector: #emailAddress
+2015-06-11 04:42:34 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='travellersInfo[0].firstName']
+2015-06-11 04:42:34 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='travellersInfo[0].firstName']
+2015-06-11 04:42:34 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='travellersInfo[0].lastName']
+2015-06-11 04:42:34 [INFO ] Handler:129 - Looking for element: By.cssSelector: #emailAddress
+2015-06-11 04:42:34 [INFO ] Handler:129 - Looking for element: By.cssSelector: #confirmEmail
+2015-06-11 04:42:35 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='travellersInfo[0].lastName']
+2015-06-11 04:42:36 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='travellersInfo[0].lastName']
+2015-06-11 04:42:36 [INFO ] Handler:129 - Looking for element: By.cssSelector: #emailAddress
+2015-06-11 04:42:36 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='travellersInfo[0].homePhone.phoneNumber']
+2015-06-11 04:42:36 [INFO ] Handler:129 - Looking for element: By.cssSelector: #confirmEmail
+2015-06-11 04:43:09 [INFO ] Handler:129 - Looking for element: By.cssSelector: #emailAddress
+2015-06-11 04:43:10 [INFO ] Handler:129 - Looking for element: By.cssSelector: #emailAddress
+2015-06-11 04:43:10 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='travellersInfo[0].homePhone.phoneNumber']
+2015-06-11 04:43:10 [INFO ] Handler:129 - Looking for element: By.cssSelector: #confirmEmail
+2015-06-11 04:43:12 [INFO ] Handler:129 - Looking for element: By.cssSelector: #confirmEmail
+2015-06-11 04:43:12 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='travellersInfo[0].homePhone.phoneNumber']
+2015-06-11 04:43:13 [INFO ] Handler:129 - Looking for element: By.cssSelector: #confirmEmail
+2015-06-11 04:43:14 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='travellersInfo[0].homePhone.phoneNumber']
+2015-06-11 04:43:15 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='travellersInfo[0].homePhone.phoneNumber']
+2015-06-11 04:43:29 [INFO ] Handler:129 - Looking for element: By.xpath: //a[@id='pgButtonProceed']/span/span
+2015-06-11 04:43:29 [INFO ] Handler:129 - Looking for element: By.xpath: //a[@id='pgButtonProceed']/span/span
+2015-06-11 04:44:23 [INFO ] Handler:104 - Opening url...https://booking.westjet.com/InternetBooking/AirLowFareSearchExternal.do
+2015-06-11 04:44:30 [INFO ] Handler:89 - Opened UI is not production
+2015-06-11 04:44:30 [INFO ] Handler:95 - Page at https://booking.westjet.com/InternetBooking/AirLowFareSearchExternal.do is opened
+2015-06-11 04:44:30 [INFO ] TestFlights_RT:37 - Starting testcase TestWestJetFlight_RoundTrip
+2015-06-11 04:44:52 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='tripTypeRT']
+2015-06-11 04:44:53 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='tripTypeRT']
+2015-06-11 04:44:54 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='tripTypeRT']
+2015-06-11 04:44:54 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='outboundOption.originLocationName']
+2015-06-11 04:44:55 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='outboundOption.originLocationName']
+2015-06-11 04:44:55 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='outboundOption.originLocationName']
+2015-06-11 04:44:55 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='outboundOption.destinationLocationName']
+2015-06-11 04:44:57 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='outboundOption.originLocationName']
+2015-06-11 04:44:57 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='outboundOption.destinationLocationName']
+2015-06-11 04:44:57 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='outboundOption.originLocationName']
+2015-06-11 04:44:58 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='outboundOption.originLocationName']
+2015-06-11 04:44:58 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='outboundOption.destinationLocationName']
+2015-06-11 04:44:58 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='outboundOption.destinationLocationName']
+2015-06-11 04:44:59 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='outboundOption.destinationLocationName']
+2015-06-11 04:45:00 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='outboundOption.destinationLocationName']
+2015-06-11 04:45:00 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='outboundOption.destinationLocationName']
+2015-06-11 04:45:06 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='tripTypeRT']
+2015-06-11 04:45:07 [INFO ] Handler:129 - Looking for element: By.xpath: //select[@id='guestTypes[0].amount']
+2015-06-11 04:45:12 [INFO ] SearchForm:84 - Setting dates
+2015-06-11 04:45:12 [INFO ] Handler:129 - Looking for element: By.cssSelector: td.calendarArea > div > a > img
+2015-06-11 04:45:14 [INFO ] Handler:129 - Looking for element: By.xpath: //a[@onclick='calendar.setDay({year:2015,month:6,day:25});return false']
+2015-06-11 04:45:15 [INFO ] Handler:129 - Looking for element: By.cssSelector: #returnBlockDate > table > tbody > tr > td.calendarArea > div > a > img
+2015-06-11 04:45:15 [INFO ] Handler:129 - Looking for element: By.xpath: //a[@onclick='calendar.setDay({year:2015,month:7,day:25});return false']
+2015-06-11 04:45:15 [INFO ] Handler:129 - Looking for element: By.xpath: //a[contains(text(),'Close')]
+2015-06-11 04:45:15 [INFO ] Handler:129 - Looking for element: By.xpath: //select[@id='guestTypes[0].amount']
+2015-06-11 04:45:17 [INFO ] Handler:129 - Looking for element: By.xpath: //select[@id='guestTypes[0].amount']
+2015-06-11 04:45:17 [INFO ] Handler:129 - Looking for element: By.xpath: //select[@id='guestTypes[0].amount']
+2015-06-11 04:45:17 [INFO ] Handler:129 - Looking for element: By.xpath: //select[@id='guestTypes[0].amount']
+2015-06-11 04:45:18 [INFO ] Handler:129 - Looking for element: By.xpath: //select[@id='guestTypes[0].amount']
+2015-06-11 04:45:19 [INFO ] Handler:129 - Looking for element: By.xpath: //a[@onclick='checkReservationStatus();return false;']
+2015-06-11 04:45:19 [INFO ] Handler:129 - Looking for element: By.xpath: //a[@onclick='checkReservationStatus();return false;']
+2015-06-11 04:45:20 [INFO ] Handler:129 - Looking for element: By.xpath: //a[@onclick='checkReservationStatus();return false;']
+2015-06-11 04:45:29 [INFO ] Handler:129 - Looking for element: By.xpath: //a[@onclick='checkReservationStatus();return false;']
+2015-06-11 04:45:51 [INFO ] Handler:129 - Looking for element: By.xpath: //td[@id='summaryBot_Left_botTotalPrice']
+2015-06-11 04:45:54 [INFO ] Handler:129 - Looking for element: By.xpath: //a[@id='pgButtonNext']
+2015-06-11 04:45:54 [INFO ] Handler:129 - Looking for element: By.xpath: //a[@id='pgButtonNext']
+2015-06-11 04:46:11 [INFO ] Handler:129 - Looking for element: By.cssSelector: #summaryBot_Left_botTotalPrice
+2015-06-11 04:46:14 [INFO ] BaseTest:26 - Total prices are equal -> OK!
+2015-06-11 04:46:15 [INFO ] Handler:129 - Looking for element: By.xpath: //a[@id='pgButtonNext']
+2015-06-11 04:46:15 [INFO ] Handler:129 - Looking for element: By.xpath: //a[@id='pgButtonNext']
+2015-06-11 04:47:00 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='travellersInfo[0].firstName']
+2015-06-11 04:47:00 [INFO ] Handler:129 - Looking for element: By.xpath: //select[@id='travellersInfo[0].title']
+2015-06-11 04:47:01 [INFO ] Handler:129 - Looking for element: By.xpath: //select[@id='travellersInfo[0].title']
+2015-06-11 04:47:01 [INFO ] Handler:129 - Looking for element: By.xpath: //select[@id='travellersInfo[0].title']
+2015-06-11 04:47:01 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='travellersInfo[0].firstName']
+2015-06-11 04:47:01 [INFO ] Handler:129 - Looking for element: By.xpath: //select[@id='travellersInfo[0].title']
+2015-06-11 04:47:02 [INFO ] Handler:129 - Looking for element: By.xpath: //select[@id='travellersInfo[0].title']
+2015-06-11 04:47:03 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='travellersInfo[0].firstName']
+2015-06-11 04:47:03 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='travellersInfo[0].lastName']
+2015-06-11 04:47:03 [INFO ] Handler:129 - Looking for element: By.cssSelector: #emailAddress
+2015-06-11 04:47:03 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='travellersInfo[0].firstName']
+2015-06-11 04:47:03 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='travellersInfo[0].firstName']
+2015-06-11 04:47:03 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='travellersInfo[0].lastName']
+2015-06-11 04:47:03 [INFO ] Handler:129 - Looking for element: By.cssSelector: #emailAddress
+2015-06-11 04:47:04 [INFO ] Handler:129 - Looking for element: By.cssSelector: #confirmEmail
+2015-06-11 04:47:04 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='travellersInfo[0].lastName']
+2015-06-11 04:47:04 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='travellersInfo[0].lastName']
+2015-06-11 04:47:04 [INFO ] Handler:129 - Looking for element: By.cssSelector: #emailAddress
+2015-06-11 04:47:04 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='travellersInfo[0].homePhone.phoneNumber']
+2015-06-11 04:47:04 [INFO ] Handler:129 - Looking for element: By.cssSelector: #confirmEmail
+2015-06-11 04:47:04 [INFO ] Handler:129 - Looking for element: By.cssSelector: #emailAddress
+2015-06-11 04:47:05 [INFO ] Handler:129 - Looking for element: By.cssSelector: #emailAddress
+2015-06-11 04:47:05 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='travellersInfo[0].homePhone.phoneNumber']
+2015-06-11 04:47:05 [INFO ] Handler:129 - Looking for element: By.cssSelector: #confirmEmail
+2015-06-11 04:47:06 [INFO ] Handler:129 - Looking for element: By.cssSelector: #confirmEmail
+2015-06-11 04:47:07 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='travellersInfo[0].homePhone.phoneNumber']
+2015-06-11 04:47:07 [INFO ] Handler:129 - Looking for element: By.cssSelector: #confirmEmail
+2015-06-11 04:47:08 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='travellersInfo[0].homePhone.phoneNumber']
+2015-06-11 04:47:08 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='travellersInfo[0].homePhone.phoneNumber']
+2015-06-11 04:47:13 [INFO ] Handler:129 - Looking for element: By.xpath: //a[@id='pgButtonProceed']/span/span
+2015-06-11 04:47:13 [INFO ] Handler:129 - Looking for element: By.xpath: //a[@id='pgButtonProceed']/span/span
+2015-06-11 04:48:12 [INFO ] Handler:129 - Looking for element: By.cssSelector: div.nameAreaWrap > table > tbody > tr > td.name > div
+2015-06-11 04:48:12 [INFO ] Handler:129 - Looking for element: By.cssSelector: div.nameAreaWrap > table > tbody > tr > td.name > div
+2015-06-11 04:48:16 [INFO ] TestFlights_RT:54 - Test passed successfully -> OK!
+2015-06-11 04:48:21 [INFO ] Handler:140 - Close the current window, quitting the browser if it's the last window currently open.
+2015-06-11 04:49:36 [INFO ] Handler:104 - Opening url...https://booking.westjet.com/InternetBooking/AirLowFareSearchExternal.do
+2015-06-11 04:49:42 [INFO ] Handler:89 - Opened UI is not production
+2015-06-11 04:49:42 [INFO ] Handler:95 - Page at https://booking.westjet.com/InternetBooking/AirLowFareSearchExternal.do is opened
+2015-06-11 04:49:42 [INFO ] TestFlights_RT:37 - Starting testcase TestWestJetFlight_RoundTrip
+2015-06-11 04:49:45 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='tripTypeRT']
+2015-06-11 04:49:46 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='tripTypeRT']
+2015-06-11 04:49:47 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='outboundOption.originLocationName']
+2015-06-11 04:49:47 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='outboundOption.originLocationName']
+2015-06-11 04:49:48 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='outboundOption.originLocationName']
+2015-06-11 04:49:48 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='outboundOption.originLocationName']
+2015-06-11 04:49:48 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='outboundOption.destinationLocationName']
+2015-06-11 04:49:49 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='outboundOption.destinationLocationName']
+2015-06-11 04:49:50 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='outboundOption.destinationLocationName']
+2015-06-11 04:49:50 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='tripTypeRT']
+2015-06-11 04:49:50 [INFO ] Handler:129 - Looking for element: By.xpath: //select[@id='guestTypes[0].amount']
+2015-06-11 04:49:53 [INFO ] SearchForm:84 - Setting dates
+2015-06-11 04:49:53 [INFO ] Handler:129 - Looking for element: By.cssSelector: td.calendarArea > div > a > img
+2015-06-11 04:49:54 [INFO ] Handler:129 - Looking for element: By.xpath: //a[@onclick='calendar.setDay({year:2015,month:6,day:25});return false']
+2015-06-11 04:49:54 [INFO ] Handler:129 - Looking for element: By.cssSelector: #returnBlockDate > table > tbody > tr > td.calendarArea > div > a > img
+2015-06-11 04:49:54 [INFO ] Handler:129 - Looking for element: By.xpath: //a[@onclick='calendar.setDay({year:2015,month:7,day:25});return false']
+2015-06-11 04:49:54 [INFO ] Handler:129 - Looking for element: By.xpath: //a[contains(text(),'Close')]
+2015-06-11 04:49:54 [INFO ] Handler:129 - Looking for element: By.xpath: //select[@id='guestTypes[0].amount']
+2015-06-11 04:49:54 [INFO ] Handler:129 - Looking for element: By.xpath: //select[@id='guestTypes[0].amount']
+2015-06-11 04:49:55 [INFO ] Handler:129 - Looking for element: By.xpath: //select[@id='guestTypes[0].amount']
+2015-06-11 04:49:56 [INFO ] Handler:129 - Looking for element: By.xpath: //select[@id='guestTypes[0].amount']
+2015-06-11 04:49:56 [INFO ] Handler:129 - Looking for element: By.xpath: //a[@onclick='checkReservationStatus();return false;']
+2015-06-11 04:50:24 [INFO ] Handler:104 - Opening url...https://booking.westjet.com/InternetBooking/AirLowFareSearchExternal.do
+2015-06-11 04:50:29 [INFO ] Handler:89 - Opened UI is not production
+2015-06-11 04:50:29 [INFO ] Handler:95 - Page at https://booking.westjet.com/InternetBooking/AirLowFareSearchExternal.do is opened
+2015-06-11 04:50:29 [INFO ] TestFlights_RT:37 - Starting testcase TestWestJetFlight_RoundTrip
+2015-06-11 04:50:43 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='tripTypeRT']
+2015-06-11 04:50:43 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='tripTypeRT']
+2015-06-11 04:50:44 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='outboundOption.originLocationName']
+2015-06-11 04:50:48 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='outboundOption.originLocationName']
+2015-06-11 04:50:49 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='outboundOption.originLocationName']
+2015-06-11 04:50:49 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='outboundOption.originLocationName']
+2015-06-11 04:50:49 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='outboundOption.destinationLocationName']
+2015-06-11 04:50:51 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='outboundOption.destinationLocationName']
+2015-06-11 04:50:52 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='outboundOption.destinationLocationName']
+2015-06-11 04:50:53 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='tripTypeRT']
+2015-06-11 04:50:53 [INFO ] Handler:129 - Looking for element: By.xpath: //select[@id='guestTypes[0].amount']
+2015-06-11 04:50:53 [INFO ] SearchForm:84 - Setting dates
+2015-06-11 04:50:53 [INFO ] Handler:129 - Looking for element: By.cssSelector: td.calendarArea > div > a > img
+2015-06-11 04:50:53 [INFO ] Handler:129 - Looking for element: By.xpath: //a[@onclick='calendar.setDay({year:2015,month:6,day:25});return false']
+2015-06-11 04:50:54 [INFO ] Handler:129 - Looking for element: By.cssSelector: #returnBlockDate > table > tbody > tr > td.calendarArea > div > a > img
+2015-06-11 04:50:54 [INFO ] Handler:129 - Looking for element: By.xpath: //a[@onclick='calendar.setDay({year:2015,month:7,day:25});return false']
+2015-06-11 04:50:54 [INFO ] Handler:129 - Looking for element: By.xpath: //a[contains(text(),'Close')]
+2015-06-11 04:50:54 [INFO ] Handler:129 - Looking for element: By.xpath: //select[@id='guestTypes[0].amount']
+2015-06-11 04:50:54 [INFO ] Handler:129 - Looking for element: By.xpath: //select[@id='guestTypes[0].amount']
+2015-06-11 04:50:54 [INFO ] Handler:129 - Looking for element: By.xpath: //select[@id='guestTypes[0].amount']
+2015-06-11 04:50:56 [INFO ] Handler:129 - Looking for element: By.xpath: //select[@id='guestTypes[0].amount']
+2015-06-11 04:50:56 [INFO ] Handler:129 - Looking for element: By.xpath: //a[@onclick='checkReservationStatus();return false;']
+2015-06-11 04:52:23 [INFO ] Handler:104 - Opening url...https://booking.westjet.com/InternetBooking/AirLowFareSearchExternal.do
+2015-06-11 04:52:30 [INFO ] Handler:89 - Opened UI is not production
+2015-06-11 04:52:30 [INFO ] Handler:95 - Page at https://booking.westjet.com/InternetBooking/AirLowFareSearchExternal.do is opened
+2015-06-11 04:52:30 [INFO ] TestFlights_RT:37 - Starting testcase TestWestJetFlight_RoundTrip
+2015-06-11 04:52:30 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='tripTypeRT']
+2015-06-11 04:52:30 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='outboundOption.originLocationName']
+2015-06-11 04:52:33 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='outboundOption.originLocationName']
+2015-06-11 04:52:33 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='outboundOption.destinationLocationName']
+2015-06-11 04:52:34 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='outboundOption.destinationLocationName']
+2015-06-11 04:52:34 [INFO ] SearchForm:84 - Setting dates
+2015-06-11 04:52:34 [INFO ] Handler:129 - Looking for element: By.cssSelector: td.calendarArea > div > a > img
+2015-06-11 04:52:35 [INFO ] Handler:129 - Looking for element: By.xpath: //a[@onclick='calendar.setDay({year:2015,month:6,day:25});return false']
+2015-06-11 04:52:35 [INFO ] Handler:129 - Looking for element: By.cssSelector: #returnBlockDate > table > tbody > tr > td.calendarArea > div > a > img
+2015-06-11 04:52:35 [INFO ] Handler:129 - Looking for element: By.xpath: //a[@onclick='calendar.setDay({year:2015,month:7,day:25});return false']
+2015-06-11 04:52:35 [INFO ] Handler:129 - Looking for element: By.xpath: //a[contains(text(),'Close')]
+2015-06-11 04:52:35 [INFO ] Handler:129 - Looking for element: By.xpath: //select[@id='guestTypes[0].amount']
+2015-06-11 04:52:35 [INFO ] Handler:129 - Looking for element: By.xpath: //select[@id='guestTypes[0].amount']
+2015-06-11 04:52:36 [INFO ] Handler:129 - Looking for element: By.xpath: //select[@id='guestTypes[0].amount']
+2015-06-11 04:52:36 [INFO ] Handler:129 - Looking for element: By.xpath: //a[@onclick='checkReservationStatus();return false;']
+2015-06-11 04:52:48 [INFO ] Handler:140 - Close the current window, quitting the browser if it's the last window currently open.
+2015-06-11 04:53:14 [INFO ] Handler:104 - Opening url...https://booking.westjet.com/InternetBooking/AirLowFareSearchExternal.do
+2015-06-11 04:53:19 [INFO ] Handler:89 - Opened UI is not for production
+2015-06-11 04:53:19 [INFO ] Handler:95 - Page at https://booking.westjet.com/InternetBooking/AirLowFareSearchExternal.do is opened
+2015-06-11 04:53:19 [INFO ] TestFlights_RT:37 - Starting testcase TestWestJetFlight_RoundTrip
+2015-06-11 04:53:19 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='tripTypeRT']
+2015-06-11 04:53:20 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='outboundOption.originLocationName']
+2015-06-11 04:53:23 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='outboundOption.originLocationName']
+2015-06-11 04:53:23 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='outboundOption.destinationLocationName']
+2015-06-11 04:53:25 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='outboundOption.destinationLocationName']
+2015-06-11 04:53:25 [INFO ] SearchForm:84 - Setting dates
+2015-06-11 04:53:25 [INFO ] Handler:129 - Looking for element: By.cssSelector: td.calendarArea > div > a > img
+2015-06-11 04:53:25 [INFO ] Handler:129 - Looking for element: By.xpath: //a[@onclick='calendar.setDay({year:2015,month:6,day:25});return false']
+2015-06-11 04:53:25 [INFO ] Handler:129 - Looking for element: By.cssSelector: #returnBlockDate > table > tbody > tr > td.calendarArea > div > a > img
+2015-06-11 04:53:26 [INFO ] Handler:129 - Looking for element: By.xpath: //a[@onclick='calendar.setDay({year:2015,month:7,day:25});return false']
+2015-06-11 04:53:26 [INFO ] Handler:129 - Looking for element: By.xpath: //a[contains(text(),'Close')]
+2015-06-11 04:53:26 [INFO ] Handler:129 - Looking for element: By.xpath: //select[@id='guestTypes[0].amount']
+2015-06-11 04:53:26 [INFO ] Handler:129 - Looking for element: By.xpath: //select[@id='guestTypes[0].amount']
+2015-06-11 04:53:26 [INFO ] Handler:129 - Looking for element: By.xpath: //select[@id='guestTypes[0].amount']
+2015-06-11 04:53:27 [INFO ] Handler:129 - Looking for element: By.xpath: //a[@onclick='checkReservationStatus();return false;']
+2015-06-11 04:53:49 [INFO ] Handler:140 - Close the current window, quitting the browser if it's the last window currently open.
+2015-06-11 04:54:12 [INFO ] Handler:104 - Opening url...https://booking.westjet.com/InternetBooking/AirLowFareSearchExternal.do
+2015-06-11 04:54:19 [INFO ] Handler:89 - Opened UI is not for production
+2015-06-11 04:54:19 [INFO ] Handler:95 - Page at https://booking.westjet.com/InternetBooking/AirLowFareSearchExternal.do is opened
+2015-06-11 04:54:19 [INFO ] TestFlights_RT:37 - Starting testcase TestWestJetFlight_RoundTrip
+2015-06-11 04:54:19 [INFO ] Handler:129 - Looking for element: By.xpath: //input[@id='tripTypeRT']
+2015-06-11 04:54:20 [INFO ] Handler:140 - Close the current window, quitting the browser if it's the last window currently open.
+2015-06-11 04:55:39 [INFO ] Handler:105 - Opening url...https://booking.westjet.com/InternetBooking/AirLowFareSearchExternal.do
+2015-06-11 04:56:17 [INFO ] Handler:89 - Opened UI is not for production
+2015-06-11 04:56:17 [INFO ] Handler:96 - Page at https://booking.westjet.com/InternetBooking/AirLowFareSearchExternal.do is opened
+2015-06-11 04:56:17 [INFO ] TestFlights_RT:37 - Starting testcase TestWestJetFlight_RoundTrip
+2015-06-11 04:56:17 [INFO ] Handler:130 - Looking for element: By.xpath: //input[@id='tripTypeRT']
+2015-06-11 04:56:17 [INFO ] Handler:130 - Looking for element: By.xpath: //input[@id='outboundOption.originLocationName']
+2015-06-11 04:56:18 [INFO ] Handler:130 - Looking for element: By.xpath: //input[@id='outboundOption.originLocationName']
+2015-06-11 04:56:18 [INFO ] Handler:130 - Looking for element: By.xpath: //input[@id='outboundOption.destinationLocationName']
+2015-06-11 04:56:20 [INFO ] Handler:130 - Looking for element: By.xpath: //input[@id='outboundOption.destinationLocationName']
+2015-06-11 04:56:20 [INFO ] SearchForm:84 - Setting dates
+2015-06-11 04:56:20 [INFO ] Handler:130 - Looking for element: By.cssSelector: td.calendarArea > div > a > img
+2015-06-11 04:56:20 [INFO ] Handler:130 - Looking for element: By.xpath: //a[@onclick='calendar.setDay({year:2015,month:6,day:25});return false']
+2015-06-11 04:56:20 [INFO ] Handler:130 - Looking for element: By.cssSelector: #returnBlockDate > table > tbody > tr > td.calendarArea > div > a > img
+2015-06-11 04:56:20 [INFO ] Handler:130 - Looking for element: By.xpath: //a[@onclick='calendar.setDay({year:2015,month:7,day:25});return false']
+2015-06-11 04:56:20 [INFO ] Handler:130 - Looking for element: By.xpath: //a[contains(text(),'Close')]
+2015-06-11 04:56:21 [INFO ] Handler:130 - Looking for element: By.xpath: //select[@id='guestTypes[0].amount']
+2015-06-11 04:56:21 [INFO ] Handler:130 - Looking for element: By.xpath: //select[@id='guestTypes[0].amount']
+2015-06-11 04:56:21 [INFO ] Handler:130 - Looking for element: By.xpath: //select[@id='guestTypes[0].amount']
+2015-06-11 04:56:21 [INFO ] Handler:130 - Looking for element: By.xpath: //a[@onclick='checkReservationStatus();return false;']
+2015-06-11 04:56:51 [INFO ] Handler:141 - Close the current window, quitting the browser if it's the last window currently open.
+2015-06-11 05:44:33 [INFO ] Handler:105 - Opening url...https://booking.westjet.com/InternetBooking/AirLowFareSearchExternal.do
+2015-06-11 05:45:10 [INFO ] Handler:89 - Opened UI is not for production
+2015-06-11 05:45:10 [INFO ] Handler:96 - Page at https://booking.westjet.com/InternetBooking/AirLowFareSearchExternal.do is opened
+2015-06-11 05:45:11 [INFO ] TestFlights_RT:37 - Starting testcase TestWestJetFlight_RoundTrip
+2015-06-11 05:45:11 [INFO ] Handler:141 - Close the current window, quitting the browser if it's the last window currently open.
+2015-06-11 05:46:28 [INFO ] Handler:105 - Opening url...https://booking.westjet.com/InternetBooking/AirLowFareSearchExternal.do
+2015-06-11 05:47:05 [INFO ] Handler:89 - Opened UI is not for production
+2015-06-11 05:47:05 [INFO ] Handler:96 - Page at https://booking.westjet.com/InternetBooking/AirLowFareSearchExternal.do is opened
+2015-06-11 05:47:05 [INFO ] TestFlights_RT:37 - Starting testcase TestWestJetFlight_RoundTrip
+2015-06-11 05:47:05 [INFO ] Handler:130 - Looking for element: By.xpath: //a[@onclick='checkReservationStatus();return false;']
+2015-06-11 05:47:11 [INFO ] Handler:130 - Looking for element: By.xpath: //input[@id='tripTypeRT']
+2015-06-11 05:47:12 [INFO ] Handler:130 - Looking for element: By.xpath: //input[@id='tripTypeRT']
+2015-06-11 05:47:13 [INFO ] Handler:130 - Looking for element: By.xpath: //input[@id='outboundOption.originLocationName']
+2015-06-11 05:47:14 [INFO ] Handler:130 - Looking for element: By.xpath: //input[@id='outboundOption.originLocationName']
+2015-06-11 05:47:15 [INFO ] Handler:130 - Looking for element: By.xpath: //input[@id='outboundOption.originLocationName']
+2015-06-11 05:47:15 [INFO ] Handler:130 - Looking for element: By.xpath: //input[@id='outboundOption.originLocationName']
+2015-06-11 05:47:15 [INFO ] Handler:130 - Looking for element: By.xpath: //input[@id='outboundOption.destinationLocationName']
+2015-06-11 05:47:17 [INFO ] Handler:130 - Looking for element: By.xpath: //input[@id='outboundOption.destinationLocationName']
+2015-06-11 05:47:18 [INFO ] Handler:130 - Looking for element: By.xpath: //input[@id='outboundOption.destinationLocationName']
+2015-06-11 05:47:19 [INFO ] Handler:130 - Looking for element: By.xpath: //input[@id='tripTypeRT']
+2015-06-11 05:47:19 [INFO ] Handler:130 - Looking for element: By.xpath: //select[@id='guestTypes[0].amount']
+2015-06-11 05:47:21 [INFO ] SearchForm:84 - Setting dates
+2015-06-11 05:47:21 [INFO ] Handler:130 - Looking for element: By.cssSelector: td.calendarArea > div > a > img
+2015-06-11 05:47:21 [INFO ] Handler:130 - Looking for element: By.xpath: //a[@onclick='calendar.setDay({year:2015,month:6,day:25});return false']
+2015-06-11 05:47:21 [INFO ] Handler:130 - Looking for element: By.cssSelector: #returnBlockDate > table > tbody > tr > td.calendarArea > div > a > img
+2015-06-11 05:47:21 [INFO ] Handler:130 - Looking for element: By.xpath: //a[@onclick='calendar.setDay({year:2015,month:7,day:25});return false']
+2015-06-11 05:47:22 [INFO ] Handler:130 - Looking for element: By.xpath: //a[contains(text(),'Close')]
+2015-06-11 05:47:22 [INFO ] Handler:130 - Looking for element: By.xpath: //select[@id='guestTypes[0].amount']
+2015-06-11 05:47:22 [INFO ] Handler:130 - Looking for element: By.xpath: //select[@id='guestTypes[0].amount']
+2015-06-11 05:47:22 [INFO ] Handler:130 - Looking for element: By.xpath: //select[@id='guestTypes[0].amount']
+2015-06-11 05:47:26 [INFO ] Handler:130 - Looking for element: By.xpath: //select[@id='guestTypes[0].amount']
+2015-06-11 05:47:26 [INFO ] Handler:130 - Looking for element: By.xpath: //a[@onclick='checkReservationStatus();return false;']
+2015-06-11 05:47:56 [INFO ] Handler:130 - Looking for element: By.xpath: //td[@id='summaryBot_Left_botTotalPrice']
+2015-06-11 05:47:56 [INFO ] Handler:130 - Looking for element: By.xpath: //a[@id='pgButtonNext']
+2015-06-11 05:47:56 [INFO ] Handler:130 - Looking for element: By.xpath: //a[@id='pgButtonNext']
+2015-06-11 05:48:27 [INFO ] Handler:130 - Looking for element: By.cssSelector: #summaryBot_Left_botTotalPrice
+2015-06-11 05:48:27 [INFO ] BaseTest:26 - Total prices are equal -> OK!
+2015-06-11 05:48:27 [INFO ] Handler:130 - Looking for element: By.xpath: //a[@id='pgButtonNext']
+2015-06-11 05:48:27 [INFO ] Handler:130 - Looking for element: By.xpath: //a[@id='pgButtonNext']
+2015-06-11 05:48:58 [INFO ] Handler:130 - Looking for element: By.xpath: //input[@id='travellersInfo[0].firstName']
+2015-06-11 05:48:59 [INFO ] Handler:130 - Looking for element: By.xpath: //select[@id='travellersInfo[0].title']
+2015-06-11 05:49:14 [INFO ] Handler:130 - Looking for element: By.xpath: //select[@id='travellersInfo[0].title']
+2015-06-11 05:49:14 [INFO ] Handler:130 - Looking for element: By.xpath: //select[@id='travellersInfo[0].title']
+2015-06-11 05:49:14 [INFO ] Handler:130 - Looking for element: By.xpath: //select[@id='travellersInfo[0].title']
+2015-06-11 05:49:15 [INFO ] Handler:130 - Looking for element: By.xpath: //input[@id='travellersInfo[0].firstName']
+2015-06-11 05:49:15 [INFO ] Handler:130 - Looking for element: By.xpath: //input[@id='travellersInfo[0].lastName']
+2015-06-11 05:49:15 [INFO ] Handler:130 - Looking for element: By.cssSelector: #emailAddress
+2015-06-11 05:49:16 [INFO ] Handler:130 - Looking for element: By.cssSelector: #confirmEmail
+2015-06-11 05:49:16 [INFO ] Handler:130 - Looking for element: By.xpath: //input[@id='travellersInfo[0].homePhone.phoneNumber']
+2015-06-11 05:49:17 [INFO ] Handler:130 - Looking for element: By.xpath: //a[@id='pgButtonProceed']/span/span
+2015-06-11 05:49:17 [INFO ] Handler:130 - Looking for element: By.xpath: //a[@id='pgButtonProceed']/span/span
+2015-06-11 05:49:47 [INFO ] Handler:130 - Looking for element: By.cssSelector: div.nameAreaWrap > table > tbody > tr > td.name > div
+2015-06-11 05:49:47 [INFO ] Handler:130 - Looking for element: By.cssSelector: div.nameAreaWrap > table > tbody > tr > td.name > div
+2015-06-11 05:49:47 [INFO ] TestFlights_RT:57 - Test passed successfully -> OK!
+2015-06-11 05:49:47 [INFO ] Handler:141 - Close the current window, quitting the browser if it's the last window currently open.
+2015-06-11 07:51:57 [INFO ] Handler:106 - Opening url...https://booking.westjet.com/InternetBooking/AirLowFareSearchExternal.do
+2015-06-11 07:52:33 [INFO ] Handler:90 - Opened UI is not for production
+2015-06-11 07:52:33 [INFO ] Handler:97 - Page at https://booking.westjet.com/InternetBooking/AirLowFareSearchExternal.do is opened
+2015-06-11 07:52:33 [INFO ] TestFlights_RT:37 - Starting testcase TestWestJetFlight_RoundTrip
+2015-06-11 07:52:33 [INFO ] Handler:131 - Looking for element: By.xpath: //input[@id='tripTypeRT']
+2015-06-11 07:52:33 [INFO ] Handler:131 - Looking for element: By.xpath: //input[@id='outboundOption.originLocationName']
+2015-06-11 07:52:34 [INFO ] Handler:131 - Looking for element: By.xpath: //input[@id='outboundOption.originLocationName']
+2015-06-11 07:52:34 [INFO ] Handler:131 - Looking for element: By.xpath: //input[@id='outboundOption.destinationLocationName']
+2015-06-11 07:52:35 [INFO ] Handler:131 - Looking for element: By.xpath: //input[@id='outboundOption.destinationLocationName']
+2015-06-11 07:52:35 [INFO ] SearchForm:84 - Setting dates
+2015-06-11 07:52:36 [INFO ] Handler:131 - Looking for element: By.cssSelector: td.calendarArea > div > a > img
+2015-06-11 07:52:36 [INFO ] Handler:131 - Looking for element: By.xpath: //a[@onclick='calendar.setDay({year:2015,month:6,day:25});return false']
+2015-06-11 07:52:36 [INFO ] Handler:131 - Looking for element: By.cssSelector: #returnBlockDate > table > tbody > tr > td.calendarArea > div > a > img
+2015-06-11 07:52:36 [INFO ] Handler:131 - Looking for element: By.xpath: //a[@onclick='calendar.setDay({year:2015,month:7,day:25});return false']
+2015-06-11 07:52:36 [INFO ] Handler:131 - Looking for element: By.xpath: //a[contains(text(),'Close')]
+2015-06-11 07:52:36 [INFO ] Handler:131 - Looking for element: By.xpath: //select[@id='guestTypes[0].amount']
+2015-06-11 07:52:36 [INFO ] Handler:131 - Looking for element: By.xpath: //select[@id='guestTypes[0].amount']
+2015-06-11 07:52:36 [INFO ] Handler:131 - Looking for element: By.xpath: //select[@id='guestTypes[0].amount']
+2015-06-11 07:52:37 [INFO ] Handler:131 - Looking for element: By.xpath: //a[@onclick='checkReservationStatus();return false;']
+2015-06-11 07:53:07 [INFO ] Handler:131 - Looking for element: By.xpath: //td[@id='summaryBot_Left_botTotalPrice']
+2015-06-11 07:53:07 [INFO ] Handler:131 - Looking for element: By.xpath: //a[@id='pgButtonNext']
+2015-06-11 07:53:07 [INFO ] Handler:131 - Looking for element: By.xpath: //a[@id='pgButtonNext']
+2015-06-11 07:53:38 [INFO ] Handler:131 - Looking for element: By.cssSelector: #summaryBot_Left_botTotalPrice
+2015-06-11 07:53:38 [INFO ] BaseTest:26 - Total prices are equal -> OK!
+2015-06-11 07:53:38 [INFO ] Handler:131 - Looking for element: By.xpath: //a[@id='pgButtonNext']
+2015-06-11 07:53:38 [INFO ] Handler:131 - Looking for element: By.xpath: //a[@id='pgButtonNext']
+2015-06-11 07:54:08 [INFO ] Handler:131 - Looking for element: By.xpath: //select[@id='travellersInfo[0].title']
+2015-06-11 07:54:08 [INFO ] Handler:131 - Looking for element: By.xpath: //select[@id='travellersInfo[0].title']
+2015-06-11 07:54:08 [INFO ] Handler:131 - Looking for element: By.xpath: //select[@id='travellersInfo[0].title']
+2015-06-11 07:54:09 [INFO ] Handler:131 - Looking for element: By.xpath: //input[@id='travellersInfo[0].firstName']
+2015-06-11 07:54:09 [INFO ] Handler:131 - Looking for element: By.xpath: //input[@id='travellersInfo[0].lastName']
+2015-06-11 07:54:09 [INFO ] Handler:131 - Looking for element: By.cssSelector: #emailAddress
+2015-06-11 07:54:10 [INFO ] Handler:131 - Looking for element: By.cssSelector: #confirmEmail
+2015-06-11 07:54:10 [INFO ] Handler:131 - Looking for element: By.xpath: //input[@id='travellersInfo[0].homePhone.phoneNumber']
+2015-06-11 07:54:11 [INFO ] Handler:131 - Looking for element: By.xpath: //a[@id='pgButtonProceed']/span/span
+2015-06-11 07:54:11 [INFO ] Handler:131 - Looking for element: By.xpath: //a[@id='pgButtonProceed']/span/span
+2015-06-11 07:54:41 [INFO ] Handler:131 - Looking for element: By.cssSelector: div.nameAreaWrap > table > tbody > tr > td.name > div
+2015-06-11 07:54:41 [INFO ] Handler:131 - Looking for element: By.cssSelector: div.nameAreaWrap > table > tbody > tr > td.name > div
+2015-06-11 07:54:41 [INFO ] TestFlights_RT:57 - Test passed successfully -> OK!
+2015-06-11 07:54:41 [INFO ] Handler:142 - Close the current window, quitting the browser if it's the last window currently open.
+2015-06-17 05:18:56 [INFO ] Handler:113 - Opening url...https://booking.westjet.com/InternetBooking/AirLowFareSearchExternal.do
+2015-06-17 05:21:00 [INFO ] Runner:36 - Page created {%s}
+class base.pages.GuestsPage
+2015-06-17 05:21:00 [INFO ] Runner:36 - Page created {%s}
+class base.pages.ReviewPage
+2015-06-17 05:21:00 [INFO ] Runner:36 - Page created {%s}
+class base.pages.SearchPage
+2015-06-17 05:21:00 [INFO ] Runner:36 - Page created {%s}
+class base.pages.SelectPage
+2015-06-17 05:21:00 [INFO ] Runner:36 - Page created {%s}
+class base.pages.SelectSeatsPage
+2015-06-17 05:21:00 [INFO ] Handler:113 - Opening url...https://booking.westjet.com/InternetBooking/AirLowFareSearchExternal.do
+2015-06-17 05:21:39 [INFO ] Runner:36 - Page created {class base.pages.GuestsPage}
+
+2015-06-17 05:21:39 [INFO ] Runner:36 - Page created {class base.pages.ReviewPage}
+
+2015-06-17 05:21:39 [INFO ] Runner:36 - Page created {class base.pages.SearchPage}
+
+2015-06-17 05:21:39 [INFO ] Runner:36 - Page created {class base.pages.SelectPage}
+
+2015-06-17 05:21:39 [INFO ] Runner:36 - Page created {class base.pages.SelectSeatsPage}
+
+2015-06-17 05:21:39 [INFO ] Handler:113 - Opening url...https://booking.westjet.com/InternetBooking/AirLowFareSearchExternal.do
+2015-06-17 05:24:08 [INFO ] Runner:36 - Page created {class base.pages.GuestsPage}
+
+2015-06-17 05:24:08 [INFO ] Runner:36 - Page created {class base.pages.ReviewPage}
+
+2015-06-17 05:24:08 [INFO ] Runner:36 - Page created {class base.pages.SearchPage}
+
+2015-06-17 05:24:08 [INFO ] Runner:36 - Page created {class base.pages.SelectPage}
+
+2015-06-17 05:24:08 [INFO ] Runner:36 - Page created {class base.pages.SelectSeatsPage}
+
+2015-06-17 05:24:52 [INFO ] Handler:113 - Opening url...https://booking.westjet.com/InternetBooking/AirLowFareSearchExternal.do
+2015-06-17 05:25:38 [INFO ] Handler:96 - Opened UI is not for production
+2015-06-17 05:25:38 [INFO ] Handler:103 - Page at https://booking.westjet.com/InternetBooking/AirLowFareSearchExternal.do is opened
+2015-06-17 05:25:38 [INFO ] BaseTest:26 - Starting testcase TestWestJetFlight_RoundTrip
+2015-06-17 05:25:38 [INFO ] Handler:138 - Looking for element: By.xpath: //input[@id='tripTypeRT']
+2015-06-17 05:25:38 [INFO ] Handler:138 - Looking for element: By.xpath: //input[@id='outboundOption.originLocationName']
+2015-06-17 05:25:40 [INFO ] Handler:138 - Looking for element: By.xpath: //input[@id='outboundOption.originLocationName']
+2015-06-17 05:25:41 [INFO ] Handler:138 - Looking for element: By.xpath: //input[@id='outboundOption.destinationLocationName']
+2015-06-17 05:25:43 [INFO ] Handler:138 - Looking for element: By.xpath: //input[@id='outboundOption.destinationLocationName']
+2015-06-17 05:25:44 [INFO ] SearchForm:84 - Setting dates
+2015-06-17 05:25:44 [INFO ] Handler:138 - Looking for element: By.cssSelector: td.calendarArea > div > a > img
+2015-06-17 05:25:50 [INFO ] Handler:138 - Looking for element: By.xpath: //a[@onclick='calendar.setDay({year:2015,month:6,day:25});return false']
+2015-06-17 05:25:51 [INFO ] Handler:138 - Looking for element: By.cssSelector: #returnBlockDate > table > tbody > tr > td.calendarArea > div > a > img
+2015-06-17 05:25:53 [INFO ] Handler:138 - Looking for element: By.xpath: //a[@onclick='calendar.setDay({year:2015,month:7,day:25});return false']
+2015-06-17 05:25:57 [INFO ] Handler:138 - Looking for element: By.xpath: //a[contains(text(),'Close')]
+2015-06-17 05:25:58 [INFO ] Handler:138 - Looking for element: By.xpath: //select[@id='guestTypes[0].amount']
+2015-06-17 05:25:58 [INFO ] Handler:138 - Looking for element: By.xpath: //select[@id='guestTypes[0].amount']
+2015-06-17 05:25:59 [INFO ] Handler:138 - Looking for element: By.xpath: //select[@id='guestTypes[0].amount']
+2015-06-17 05:25:59 [INFO ] Handler:138 - Looking for element: By.xpath: //a[@onclick='checkReservationStatus();return false;']
+2015-06-17 05:26:38 [INFO ] Handler:138 - Looking for element: By.xpath: //td[@id='summaryBot_Left_botTotalPrice']
+2015-06-17 05:26:38 [INFO ] Handler:138 - Looking for element: By.xpath: //a[@id='pgButtonNext']
+2015-06-17 05:26:38 [INFO ] Handler:138 - Looking for element: By.xpath: //a[@id='pgButtonNext']
+2015-06-17 05:27:11 [INFO ] Handler:138 - Looking for element: By.cssSelector: #summaryBot_Left_botTotalPrice
+2015-06-17 05:27:13 [INFO ] BaseTest:34 - Total prices are equal -> OK!
+2015-06-17 05:27:13 [INFO ] Handler:138 - Looking for element: By.xpath: //a[@id='pgButtonNext']
+2015-06-17 05:27:15 [INFO ] Handler:138 - Looking for element: By.xpath: //a[@id='pgButtonNext']
+2015-06-17 05:27:51 [INFO ] Handler:138 - Looking for element: By.xpath: //select[@id='travellersInfo[0].title']
+2015-06-17 05:27:51 [INFO ] Handler:138 - Looking for element: By.xpath: //select[@id='travellersInfo[0].title']
+2015-06-17 05:27:51 [INFO ] Handler:138 - Looking for element: By.xpath: //select[@id='travellersInfo[0].title']
+2015-06-17 05:27:52 [INFO ] Handler:138 - Looking for element: By.xpath: //input[@id='travellersInfo[0].firstName']
+2015-06-17 05:27:52 [INFO ] Handler:138 - Looking for element: By.xpath: //input[@id='travellersInfo[0].lastName']
+2015-06-17 05:27:53 [INFO ] Handler:138 - Looking for element: By.cssSelector: #emailAddress
+2015-06-17 05:27:55 [INFO ] Handler:138 - Looking for element: By.cssSelector: #confirmEmail
+2015-06-17 05:27:56 [INFO ] Handler:138 - Looking for element: By.xpath: //input[@id='travellersInfo[0].homePhone.phoneNumber']
+2015-06-17 05:27:58 [INFO ] Handler:138 - Looking for element: By.xpath: //a[@id='pgButtonProceed']/span/span
+2015-06-17 05:27:59 [INFO ] Handler:138 - Looking for element: By.xpath: //a[@id='pgButtonProceed']/span/span
+2015-06-17 05:28:30 [INFO ] Handler:138 - Looking for element: By.cssSelector: div.nameAreaWrap > table > tbody > tr > td.name > div
+2015-06-17 05:28:30 [INFO ] Handler:138 - Looking for element: By.cssSelector: div.nameAreaWrap > table > tbody > tr > td.name > div
+2015-06-17 05:28:31 [INFO ] BaseTest:46 - Test passed successfully -> OK!
+2015-06-17 05:28:31 [INFO ] Handler:149 - Close the current window, quitting the browser if it's the last window currently open.
+2015-06-17 05:30:14 [INFO ] Runner:37 - Page created {class base.pages.GuestsPage}
+
+2015-06-17 05:30:14 [INFO ] Runner:37 - Page created {class base.pages.ReviewPage}
+
+2015-06-17 05:30:14 [INFO ] Runner:37 - Page created {class base.pages.SearchPage}
+
+2015-06-17 05:30:14 [INFO ] Runner:37 - Page created {class base.pages.SelectPage}
+
+2015-06-17 05:30:14 [INFO ] Runner:37 - Page created {class base.pages.SelectSeatsPage}
+
+2015-06-17 05:30:25 [INFO ] Handler:113 - Opening url...https://booking.westjet.com/InternetBooking/AirLowFareSearchExternal.do
+2015-06-17 08:04:46 [INFO ] Handler:149 - Close the current window, quitting the browser if it's the last window currently open.
+2015-06-17 08:05:58 [INFO ] Runner:37 - Page created {class base.pages.GuestsPage}
+
+2015-06-17 08:05:58 [INFO ] Runner:37 - Page created {class base.pages.ReviewPage}
+
+2015-06-17 08:05:58 [INFO ] Runner:37 - Page created {class base.pages.SearchPage}
+
+2015-06-17 08:05:58 [INFO ] Runner:37 - Page created {class base.pages.SelectPage}
+
+2015-06-17 08:05:58 [INFO ] Runner:37 - Page created {class base.pages.SelectSeatsPage}
+
+2015-06-17 08:06:06 [INFO ] Handler:149 - Close the current window, quitting the browser if it's the last window currently open.
+2015-06-17 08:06:09 [INFO ] Runner:37 - Page created {class base.pages.GuestsPage}
+
+2015-06-17 08:06:09 [INFO ] Runner:37 - Page created {class base.pages.ReviewPage}
+
+2015-06-17 08:06:09 [INFO ] Runner:37 - Page created {class base.pages.SearchPage}
+
+2015-06-17 08:06:09 [INFO ] Runner:37 - Page created {class base.pages.SelectPage}
+
+2015-06-17 08:06:09 [INFO ] Runner:37 - Page created {class base.pages.SelectSeatsPage}
+
+2015-06-17 08:06:10 [INFO ] Handler:149 - Close the current window, quitting the browser if it's the last window currently open.
+2015-06-17 08:06:38 [INFO ] Runner:37 - Page created {class base.pages.GuestsPage}
+
+2015-06-17 08:06:38 [INFO ] Runner:37 - Page created {class base.pages.ReviewPage}
+
+2015-06-17 08:06:38 [INFO ] Runner:37 - Page created {class base.pages.SearchPage}
+
+2015-06-17 08:06:38 [INFO ] Runner:37 - Page created {class base.pages.SelectPage}
+
+2015-06-17 08:06:38 [INFO ] Runner:37 - Page created {class base.pages.SelectSeatsPage}
+
+2015-06-17 08:06:45 [INFO ] Handler:113 - Opening url...https://booking.westjet.com/InternetBooking/AirLowFareSearchExternal.do
+2015-06-17 08:07:23 [INFO ] Handler:96 - Opened UI is not for production
+2015-06-17 08:07:23 [INFO ] Handler:103 - Page at https://booking.westjet.com/InternetBooking/AirLowFareSearchExternal.do is opened
+2015-06-17 08:07:23 [INFO ] BaseTest:29 - Starting testcase TestWestJetFlight_OneWay
+2015-06-17 08:07:23 [INFO ] Handler:138 - Looking for element: By.xpath: //input[@id='tripTypeRT']
+2015-06-17 08:07:23 [INFO ] Handler:138 - Looking for element: By.xpath: //input[@id='outboundOption.originLocationName']
+2015-06-17 08:07:25 [INFO ] Handler:138 - Looking for element: By.xpath: //input[@id='outboundOption.originLocationName']
+2015-06-17 08:07:25 [INFO ] Handler:138 - Looking for element: By.xpath: //input[@id='outboundOption.destinationLocationName']
+2015-06-17 08:07:26 [INFO ] Handler:138 - Looking for element: By.xpath: //input[@id='outboundOption.destinationLocationName']
+2015-06-17 08:07:26 [INFO ] SearchForm:84 - Setting dates
+2015-06-17 08:07:26 [INFO ] Handler:138 - Looking for element: By.cssSelector: td.calendarArea > div > a > img
+2015-06-17 08:07:26 [INFO ] Handler:138 - Looking for element: By.xpath: //a[@onclick='calendar.setDay({year:2015,month:6,day:25});return false']
+2015-06-17 08:07:27 [INFO ] Handler:138 - Looking for element: By.xpath: //a[contains(text(),'Close')]
+2015-06-17 08:07:27 [INFO ] Handler:138 - Looking for element: By.xpath: //select[@id='guestTypes[0].amount']
+2015-06-17 08:07:27 [INFO ] Handler:138 - Looking for element: By.xpath: //select[@id='guestTypes[0].amount']
+2015-06-17 08:07:27 [INFO ] Handler:138 - Looking for element: By.xpath: //select[@id='guestTypes[0].amount']
+2015-06-17 08:07:27 [INFO ] Handler:138 - Looking for element: By.xpath: //a[@onclick='checkReservationStatus();return false;']
+2015-06-17 08:07:57 [INFO ] Handler:149 - Close the current window, quitting the browser if it's the last window currently open.
+2015-06-17 08:07:59 [INFO ] Runner:37 - Page created {class base.pages.GuestsPage}
+
+2015-06-17 08:07:59 [INFO ] Runner:37 - Page created {class base.pages.ReviewPage}
+
+2015-06-17 08:07:59 [INFO ] Runner:37 - Page created {class base.pages.SearchPage}
+
+2015-06-17 08:07:59 [INFO ] Runner:37 - Page created {class base.pages.SelectPage}
+
+2015-06-17 08:07:59 [INFO ] Runner:37 - Page created {class base.pages.SelectSeatsPage}
+
+2015-06-17 10:17:25 [INFO ] Runner:41 - Page created {class base.pages.GuestsPage}
+
+2015-06-17 10:17:25 [INFO ] Runner:41 - Page created {class base.pages.ReviewPage}
+
+2015-06-17 10:17:25 [INFO ] Runner:41 - Page created {class base.pages.SearchPage}
+
+2015-06-17 10:17:25 [INFO ] Runner:41 - Page created {class base.pages.SelectPage}
+
+2015-06-17 10:17:25 [INFO ] Runner:41 - Page created {class base.pages.SelectSeatsPage}
+
+2015-06-17 10:18:18 [INFO ] Handler:148 - Close the current window, quitting the browser if it's the last window currently open.
+2015-06-17 10:18:18 [INFO ] Runner:41 - Page created {class base.pages.GuestsPage}
+
+2015-06-17 10:18:18 [INFO ] Runner:41 - Page created {class base.pages.ReviewPage}
+
+2015-06-17 10:18:18 [INFO ] Runner:41 - Page created {class base.pages.SearchPage}
+
+2015-06-17 10:18:18 [INFO ] Runner:41 - Page created {class base.pages.SelectPage}
+
+2015-06-17 10:18:18 [INFO ] Runner:41 - Page created {class base.pages.SelectSeatsPage}
+
+2015-06-17 10:19:28 [INFO ] Runner:41 - Page created {class base.pages.GuestsPage}
+
+2015-06-17 10:19:28 [INFO ] Runner:41 - Page created {class base.pages.ReviewPage}
+
+2015-06-17 10:19:28 [INFO ] Runner:41 - Page created {class base.pages.SearchPage}
+
+2015-06-17 10:19:28 [INFO ] Runner:41 - Page created {class base.pages.SelectPage}
+
+2015-06-17 10:19:28 [INFO ] Runner:41 - Page created {class base.pages.SelectSeatsPage}
+
+2015-06-17 10:19:31 [INFO ] Runner:41 - Page created {class base.pages.GuestsPage}
+
+2015-06-17 10:19:31 [INFO ] Runner:41 - Page created {class base.pages.ReviewPage}
+
+2015-06-17 10:19:31 [INFO ] Runner:41 - Page created {class base.pages.SearchPage}
+
+2015-06-17 10:19:31 [INFO ] Runner:41 - Page created {class base.pages.SelectPage}
+
+2015-06-17 10:19:31 [INFO ] Runner:41 - Page created {class base.pages.SelectSeatsPage}
+
+2015-06-17 10:20:14 [INFO ] Handler:148 - Close the current window, quitting the browser if it's the last window currently open.
+2015-06-17 10:20:14 [INFO ] Runner:41 - Page created {class base.pages.GuestsPage}
+
+2015-06-17 10:20:14 [INFO ] Runner:41 - Page created {class base.pages.ReviewPage}
+
+2015-06-17 10:20:14 [INFO ] Runner:41 - Page created {class base.pages.SearchPage}
+
+2015-06-17 10:20:14 [INFO ] Runner:41 - Page created {class base.pages.SelectPage}
+
+2015-06-17 10:20:14 [INFO ] Runner:41 - Page created {class base.pages.SelectSeatsPage}
+
+2015-06-17 10:21:02 [INFO ] Handler:148 - Close the current window, quitting the browser if it's the last window currently open.
+2015-06-17 10:21:33 [INFO ] Handler:148 - Close the current window, quitting the browser if it's the last window currently open.
+2015-06-17 10:21:33 [INFO ] Runner:41 - Page created {class base.pages.GuestsPage}
+
+2015-06-17 10:21:33 [INFO ] Runner:41 - Page created {class base.pages.ReviewPage}
+
+2015-06-17 10:21:33 [INFO ] Runner:41 - Page created {class base.pages.SearchPage}
+
+2015-06-17 10:21:33 [INFO ] Runner:41 - Page created {class base.pages.SelectPage}
+
+2015-06-17 10:21:33 [INFO ] Runner:41 - Page created {class base.pages.SelectSeatsPage}
+
+2015-06-17 10:22:46 [INFO ] Handler:148 - Close the current window, quitting the browser if it's the last window currently open.
